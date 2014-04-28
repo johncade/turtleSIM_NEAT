@@ -15,15 +15,100 @@
 */
 #include "experiments.h"
 #include <cstring>
+#include <boost/bind.hpp>
+#include <ros/ros.h>
+#include <turtlesim/Pose.h>
+#include <geometry_msgs/Twist.h>
+#include <std_srvs/Empty.h>
 
+turtlesim::PoseConstPtr g_pose;
+turtlesim::PoseConstPtr g_goal;
 //#define NO_SCREEN_OUT 
+
+enum State
+{
+  FORWARD,
+  STOP_FORWARD,
+  TURN,
+  STOP_TURN,
+};
+
+State g_state = FORWARD;
+State g_last_state = FORWARD;
+bool g_first_goal_set = false;
+
+#define PI 3.141592
+/* Subscribes to the Pose node */
+void poseCallback(const turtlesim::PoseConstPtr& pose)
+{
+  g_pose = pose;
+}
+/* test the velocity to see if the turtle has stopped */
+bool hasStopped()
+{
+  return g_pose->angular_velocity < 0.0001 && g_pose->linear_velocity < 0.0001;
+}
+
+void commandTurtle(ros::Publisher twist_pub, float linear, float angular)
+{
+  geometry_msgs::Twist twist;
+  twist.linear.x = linear;
+  twist.angular.z = angular;
+  twist_pub.publish(twist);
+}
+
+
+
 
 Population *turtle_test(int gens){
   return NULL;
 }
 
 bool turtle_evaluate(Organism *org){
-  return true;
+  int i;
+      Network *net;
+  int count;
+  net=org->net;
+  double in[3]; //The three inputs for NEAT
+   double out[2]; //The two outputs for turtleSIM
+  //Need to grab initial Pose and populate in
+   bool success;
+
+  for(i = 0; i < 20; i++){
+     /* time step: 1) check Pose 2) turn into input for NEAT 3)Load NEAT with input 4)Run Neat 
+                      5)Take outputs from NEAT, Publish to turtleSim 6)Wait for 2 sec 
+                      7) calc fitness at end of 20 iterations */
+    //load the network with input
+    //incount can be an array of cordinates
+    net->load_sensors(in[count]);
+
+      //use depth to ensure relaxation
+      for (relax=0;relax<=5;relax++) {
+      success=net->activate();
+      }
+
+      for(int j = 0; j < 3; j++)
+      {
+        out[j]=(*(net->outputs[j]))->activation;
+      }
+
+    }
+  if(success){
+    //Here we need to find out cordinates of bottom right corner
+    org->fitness= 1/(abs(g_pose.x - g_goal.x) + abs(g_pose.y - g_goal.y));
+  }
+  else{
+    org-fitness= 0.001;
+  }
+//If we found the optiman organism, halt NEED TO UPDATE VALUES
+  if ((out[0]<0.5)&&(out[1]>=0.5)&&(out[2]>=0.5)&&(out[3]<0.5)) {
+    org->winner=true;
+    return true;
+  }
+    else {
+    org->winner=false;
+    return false;
+  }
 
 }
 
@@ -132,13 +217,28 @@ Population *xor_test(int gens) {
       cout<<evals[expcount]<<endl;
       if (evals[expcount]>0)
       {
-	totalevals+=evals[expcount];
+	totalevals+=  //Load and activate the network on each input
+  for(count=0;count<=3;count++) {
+    net->load_sensors(in[count]);
+
+    //Relax net and get output
+    success=net->activate();
+
+    //use depth to ensure relaxation
+    for (relax=0;relax<=net_depth;relax++) {
+      success=net->activate();
+      this_out=(*(net->outputs.begin()))->activation;
+    }
+evals[expcount];
 	samples++;
       }
     }
 
     cout<<"Failures: "<<(NEAT::num_runs-samples)<<" out of "<<NEAT::num_runs<<" runs"<<endl;
-    cout<<"Average Nodes: "<<(samples>0 ? (double)totalnodes/samples : 0)<<endl;
+    cout<<"Average Nodes: "<<(samp  Network *net;
+  int count;
+
+  net=org->net;les>0 ? (double)totalnodes/samples : 0)<<endl;
     cout<<"Average Genes: "<<(samples>0 ? (double)totalgenes/samples : 0)<<endl;
     cout<<"Average Evals: "<<(samples>0 ? (double)totalevals/samples : 0)<<endl;
 
@@ -147,7 +247,10 @@ Population *xor_test(int gens) {
 }
 
 bool xor_evaluate(Organism *org) {
-  Network *net;
+  Network *net;  Network *net;
+  int count;
+
+  net=org->net;
   double out[4]; //The four outputs
   double this_out; //The current output
   int count;
