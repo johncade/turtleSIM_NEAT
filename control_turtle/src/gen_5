@@ -1,0 +1,3772 @@
+
+/* Species #1 : (Size 84) (AF 31.0119) (Age 5)  */
+
+
+/* Organism #0 Fitness: 121 Error: 0 */
+genomestart 0
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 0.108863 0 1 0.108863 1
+gene 3 2 8 0.227711 0 2 0.227711 1
+gene 3 3 8 -0.348606 0 3 -0.348606 1
+gene 2 4 8 -0.0674422 0 4 -0.0674422 1
+gene 1 5 8 0.533205 0 5 0.533205 1
+gene 3 6 8 0.646931 0 6 0.646931 1
+gene 2 7 8 -0.164336 0 7 -0.164336 1
+genomeend 0
+
+/* Organism #1 Fitness: 6 Error: 0 */
+genomestart 1
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 3 0 2
+gene 1 1 8 -2.28464 0 1 -2.28464 1
+gene 1 2 8 2.37392 0 2 2.37392 1
+gene 3 3 8 0.989533 0 3 0.989533 1
+gene 3 4 8 -1.04463 0 4 -1.04463 1
+gene 3 5 8 -0.789122 0 5 -0.789122 1
+gene 2 6 8 -1.00859 0 6 -1.00859 1
+gene 3 7 8 -0.1714 0 7 -0.1714 1
+genomeend 1
+
+/* Organism #2 Fitness: 18 Error: 0 */
+genomestart 2
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 3 1 8 -0.0756395 0 1 -0.0756395 1
+gene 3 2 8 -0.169569 0 2 -0.169569 1
+gene 1 3 8 -4.02485 0 3 -4.02485 1
+gene 1 4 8 1.97032 0 4 1.97032 1
+gene 1 5 8 -0.545192 0 5 -0.545192 1
+gene 2 6 8 3.11182 0 6 3.11182 1
+gene 3 7 8 -0.666469 0 7 -0.666469 1
+genomeend 2
+
+/* Organism #3 Fitness: 34 Error: 0 */
+genomestart 3
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 -1.29257 0 1 -1.29257 1
+gene 3 2 8 0.921999 0 2 0.921999 1
+gene 1 3 8 -3.30287 0 3 -3.30287 1
+gene 1 4 8 -2.04266 0 4 -2.04266 1
+gene 1 5 8 0.76983 0 5 0.76983 1
+gene 2 6 8 2.15121 0 6 2.15121 1
+gene 1 7 8 -0.688641 0 7 -0.688641 1
+genomeend 3
+
+/* Organism #4 Fitness: 22 Error: 0 */
+genomestart 4
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -0.827667 0 1 -0.827667 1
+gene 1 2 8 -0.381282 0 2 -0.381282 1
+gene 3 3 8 0.836696 0 3 0.836696 1
+gene 1 4 8 -1.34717 0 4 -1.34717 1
+gene 1 5 8 -1.08394 0 5 -1.08394 1
+gene 2 6 8 1.35124 0 6 1.35124 1
+gene 1 7 8 -0.657797 0 7 -0.657797 1
+genomeend 4
+
+/* Organism #5 Fitness: 16 Error: 0 */
+genomestart 5
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 0.0964959 0 1 0.0964959 1
+gene 1 2 8 0.474696 0 2 0.474696 0
+gene 3 3 8 -1.64867 0 3 -1.64867 1
+gene 3 4 8 1.14562 0 4 1.14562 1
+gene 1 5 8 -0.602468 0 5 -0.602468 1
+gene 2 6 8 2.1126 0 6 2.1126 1
+gene 1 7 8 1.79749 0 7 1.79749 1
+genomeend 5
+
+/* Organism #6 Fitness: 66 Error: 0 */
+genomestart 6
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 1 1 8 0.431737 0 1 0.431737 1
+gene 3 2 8 2.66338 0 2 2.66338 1
+gene 1 3 8 -1.56023 0 3 -1.56023 0
+gene 3 4 8 1.93037 0 4 1.93037 1
+gene 1 5 8 2.8737 0 5 2.8737 1
+gene 1 6 8 1.68566 0 6 1.68566 1
+gene 1 7 8 -0.5786 0 7 -0.5786 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 -0.170107 0 13 -0.170107 1
+genomeend 6
+
+/* Organism #7 Fitness: 86 Error: 0 */
+genomestart 7
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+node 11 1 0 0
+gene 1 1 8 -1.10985 0 1 -1.10985 1
+gene 1 2 8 -0.0162315 0 2 -0.0162315 1
+gene 3 3 8 0.945744 0 3 0.945744 0
+gene 2 4 8 -0.976999 0 4 -0.976999 1
+gene 1 5 8 2.8737 0 5 2.8737 1
+gene 2 6 8 0.296513 0 6 0.296513 1
+gene 1 7 8 -0.5786 0 7 -0.5786 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 -0.170107 0 13 -0.170107 1
+genomeend 7
+
+/* Organism #8 Fitness: 5 Error: 0 */
+genomestart 8
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 3 0 2
+gene 1 1 8 0.366747 0 1 0.366747 1
+gene 1 2 8 1.61545 0 2 1.61545 1
+gene 3 3 8 -0.298714 0 3 -0.298714 1
+gene 1 4 8 0.242928 0 4 0.242928 1
+gene 2 5 8 2.2055 0 5 2.2055 1
+gene 2 6 8 -0.564695 0 6 -0.564695 1
+gene 2 7 8 1.59694 0 7 1.59694 1
+genomeend 8
+
+/* Organism #9 Fitness: 5 Error: 0 */
+genomestart 9
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+node 11 1 0 0
+gene 2 1 8 -0.409592 0 1 -0.409592 1
+gene 3 2 8 -1.09674 0 2 -1.09674 0
+gene 3 3 8 -0.457893 0 3 -0.457893 0
+gene 2 4 8 -1.70971 0 4 -1.70971 1
+gene 1 5 8 2.44612 0 5 2.44612 1
+gene 2 6 8 -1.3986 0 6 -1.3986 1
+gene 1 7 8 0.499788 0 7 0.499788 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 1.34425 0 13 1.34425 1
+genomeend 9
+
+/* Organism #10 Fitness: 18 Error: 0 */
+genomestart 10
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 0.574087 0 1 0.574087 1
+gene 1 2 8 -0.261778 0 2 -0.261778 1
+gene 3 3 8 1.58124 0 3 1.58124 1
+gene 2 4 8 -1.7411 0 4 -1.7411 1
+gene 1 5 8 -0.594132 0 5 -0.594132 1
+gene 1 6 8 4.02162 0 6 4.02162 1
+gene 1 7 8 1.22839 0 7 1.22839 1
+gene 3 3 11 -0.401934 0 12 -0.401934 1
+gene 3 11 8 1.74674 0 13 1.74674 1
+genomeend 10
+
+/* Organism #11 Fitness: 5 Error: 0 */
+genomestart 11
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 2 1 8 -3.03901 0 1 -3.03901 1
+gene 3 2 8 0.562191 0 2 0.562191 0
+gene 3 3 8 1.59509 0 3 1.59509 1
+gene 3 4 8 5.36546 0 4 5.36546 1
+gene 1 5 8 2.80961 0 5 2.80961 1
+gene 2 6 8 -1.40211 0 6 -1.40211 1
+gene 3 7 8 -3.05548 0 7 -3.05548 1
+genomeend 11
+
+/* Organism #12 Fitness: 17 Error: 0 */
+genomestart 12
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 1 1 8 0.16626 0 1 0.16626 1
+gene 3 2 8 -2.5105 0 2 -2.5105 1
+gene 3 3 8 2.10125 0 3 2.10125 1
+gene 2 4 8 -0.315932 0 4 -0.315932 1
+gene 3 5 8 -0.896392 0 5 -0.896392 1
+gene 1 6 8 2.05919 0 6 2.05919 1
+gene 1 7 8 -1.46771 0 7 -1.46771 1
+genomeend 12
+
+/* Organism #13 Fitness: 28 Error: 0 */
+genomestart 13
+trait 1 0 0 0.371665 0 0 0.193679 0 0.772508 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 1 1 8 1.69673 0 1 1.69673 1
+gene 3 2 8 -0.650036 0 2 -0.650036 1
+gene 1 3 8 -0.472202 0 3 -0.472202 0
+gene 2 4 8 0.322872 0 4 0.322872 1
+gene 1 5 8 2.8737 0 5 2.8737 1
+gene 1 6 8 3.16611 0 6 3.16611 1
+gene 1 7 8 1.26752 0 7 1.26752 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 -0.170107 0 13 -0.170107 1
+genomeend 13
+
+/* Organism #14 Fitness: 44 Error: 0 */
+genomestart 14
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -1.67888 0 1 -1.67888 1
+gene 1 2 8 -0.0536029 0 2 -0.0536029 1
+gene 3 3 8 3.84382 0 3 3.84382 1
+gene 1 4 8 -0.596994 0 4 -0.596994 1
+gene 1 5 8 0.302938 0 5 0.302938 1
+gene 2 6 8 1.37727 0 6 1.37727 1
+gene 1 7 8 -1.47346 0 7 -1.47346 1
+genomeend 14
+
+/* Organism #15 Fitness: 58 Error: 0 */
+genomestart 15
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 3 0 2
+gene 1 1 8 0.201699 0 1 0.201699 1
+gene 1 2 8 -0.291331 0 2 -0.291331 1
+gene 3 3 8 -0.089499 0 3 -0.089499 1
+gene 1 4 8 -2.56365 0 4 -2.56365 1
+gene 2 5 8 2.2055 0 5 2.2055 1
+gene 2 6 8 0.561248 0 6 0.561248 1
+gene 2 7 8 -0.0692502 0 7 -0.0692502 1
+genomeend 15
+
+/* Organism #16 Fitness: 5 Error: 0 */
+genomestart 16
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 2.26855 0 1 2.26855 1
+gene 3 2 8 -0.27472 0 2 -0.27472 1
+gene 1 3 8 0.725689 0 3 0.725689 1
+gene 3 4 8 3.78995 0 4 3.78995 1
+gene 3 5 8 2.04635 0 5 2.04635 1
+gene 2 6 8 -2.10821 0 6 -2.10821 1
+gene 3 7 8 -1.54526 0 7 -1.54526 1
+genomeend 16
+
+/* Organism #17 Fitness: 37 Error: 0 */
+genomestart 17
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 0.74006 0 1 0.74006 1
+gene 3 2 8 -0.102227 0 2 -0.102227 1
+gene 2 3 8 0.893252 0 3 0.893252 1
+gene 2 4 8 -3.02445 0 4 -3.02445 1
+gene 3 5 8 0.592096 0 5 0.592096 1
+gene 3 6 8 2.09793 0 6 2.09793 1
+gene 1 7 8 -0.460659 0 7 -0.460659 1
+genomeend 17
+
+/* Organism #18 Fitness: 5 Error: 0 */
+genomestart 18
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 -0.329322 0 1 -0.329322 1
+gene 3 2 8 -0.874526 0 2 -0.874526 0
+gene 2 3 8 -0.867281 0 3 -0.867281 1
+gene 2 4 8 -0.100712 0 4 -0.100712 1
+gene 3 5 8 1.40683 0 5 1.40683 1
+gene 3 6 8 0.0226472 0 6 0.0226472 1
+gene 1 7 8 -2.02187 0 7 -2.02187 1
+genomeend 18
+
+/* Organism #19 Fitness: 67 Error: 0 */
+genomestart 19
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0 0.482635 0.260785 0 0.274055 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 1.69569 0 1 1.69569 1
+gene 1 2 8 3.80167 0 2 3.80167 0
+gene 3 3 8 2.44166 0 3 2.44166 1
+gene 3 4 8 3.31324 0 4 3.31324 1
+gene 3 5 8 3.02027 0 5 3.02027 1
+gene 2 6 8 1.18171 0 6 1.18171 1
+gene 1 7 8 -1.33265 0 7 -1.33265 1
+genomeend 19
+
+/* Organism #20 Fitness: 9 Error: 0 */
+genomestart 20
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 -3.29293 0 1 -3.29293 1
+gene 3 2 8 0.379838 0 2 0.379838 1
+gene 3 3 8 -0.383796 0 3 -0.383796 1
+gene 1 4 8 -1.28068 0 4 -1.28068 1
+gene 1 5 8 -1.70841 0 5 -1.70841 1
+gene 2 6 8 0.496307 0 6 0.496307 1
+gene 3 7 8 -0.214886 0 7 -0.214886 1
+genomeend 20
+
+/* Organism #21 Fitness: 25 Error: 0 */
+genomestart 21
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 2 1 8 -4.32303 0 1 -4.32303 1
+gene 3 2 8 2.10295 0 2 2.10295 0
+gene 3 3 8 0.856339 0 3 0.856339 1
+gene 3 4 8 4.95328 0 4 4.95328 1
+gene 1 5 8 2.08276 0 5 2.08276 1
+gene 2 6 8 0.688066 0 6 0.688066 1
+gene 3 7 8 -0.447228 0 7 -0.447228 1
+genomeend 21
+
+/* Organism #22 Fitness: 5 Error: 0 */
+genomestart 22
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -0.875751 0 1 -0.875751 1
+gene 1 2 8 -0.0347801 0 2 -0.0347801 1
+gene 3 3 8 -0.515587 0 3 -0.515587 1
+gene 2 4 8 -2.98921 0 4 -2.98921 1
+gene 2 5 8 2.00207 0 5 2.00207 1
+gene 3 6 8 -1.06774 0 6 -1.06774 1
+gene 2 7 8 1.53138 0 7 1.53138 1
+genomeend 22
+
+/* Organism #23 Fitness: 30 Error: 0 */
+genomestart 23
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -3.04182 0 1 -3.04182 1
+gene 1 2 8 0.685969 0 2 0.685969 1
+gene 3 3 8 -0.0295193 0 3 -0.0295193 1
+gene 1 4 8 -0.726606 0 4 -0.726606 1
+gene 3 5 8 3.04473 0 5 3.04473 1
+gene 2 6 8 0.347186 0 6 0.347186 1
+gene 3 7 8 -2.71529 0 7 -2.71529 1
+genomeend 23
+
+/* Organism #24 Fitness: 45 Error: 0 */
+genomestart 24
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 0.453811 0 1 0.453811 1
+gene 3 2 8 2.66338 0 2 2.66338 1
+gene 3 3 8 -0.089499 0 3 -0.089499 1
+gene 2 4 8 -0.976999 0 4 -0.976999 1
+gene 1 5 8 2.8737 0 5 2.8737 1
+gene 2 6 8 0.561248 0 6 0.561248 1
+gene 2 7 8 -0.0692502 0 7 -0.0692502 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 -0.170107 0 13 -0.170107 1
+genomeend 24
+
+/* Organism #25 Fitness: 94 Error: 0 */
+genomestart 25
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 3 1 8 -0.0768478 0 1 -0.0768478 1
+gene 2 2 8 0.245367 0 2 0.245367 1
+gene 3 3 8 -0.41762 0 3 -0.41762 1
+gene 3 4 8 -0.290867 0 4 -0.290867 1
+gene 1 5 8 0.462376 0 5 0.462376 1
+gene 1 6 8 0.581348 0 6 0.581348 1
+gene 3 7 8 -0.0799303 0 7 -0.0799303 1
+genomeend 25
+
+/* Organism #26 Fitness: 33 Error: 0 */
+genomestart 26
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 3 0 2
+gene 1 1 8 -1.51274 0 1 -1.51274 1
+gene 1 2 8 0.145622 0 2 0.145622 1
+gene 1 3 8 -5.0661 0 3 -5.0661 1
+gene 1 4 8 0.906715 0 4 0.906715 1
+gene 1 5 8 2.84508 0 5 2.84508 1
+gene 2 6 8 3.36692 0 6 3.36692 1
+gene 2 7 8 -1.95806 0 7 -1.95806 1
+genomeend 26
+
+/* Organism #27 Fitness: 32 Error: 0 */
+genomestart 27
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 3 0 2
+gene 2 1 8 -1.66511 0 1 -1.66511 1
+gene 1 2 8 2.18286 0 2 2.18286 0
+gene 3 3 8 1.85406 0 3 1.85406 1
+gene 1 4 8 0.900713 0 4 0.900713 1
+gene 2 5 8 1.77643 0 5 1.77643 1
+gene 2 6 8 2.09528 0 6 2.09528 1
+gene 2 7 8 -1.71641 0 7 -1.71641 1
+genomeend 27
+
+/* Organism #28 Fitness: 8 Error: 0 */
+genomestart 28
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 2 1 8 -2.55729 0 1 -2.55729 1
+gene 3 2 8 3.28513 0 2 3.28513 0
+gene 3 3 8 2.75029 0 3 2.75029 1
+gene 3 4 8 0.170628 0 4 0.170628 1
+gene 1 5 8 0.66835 0 5 0.66835 1
+gene 2 6 8 0.0231003 0 6 0.0231003 1
+gene 3 7 8 -1.52695 0 7 -1.52695 1
+genomeend 28
+
+/* Organism #29 Fitness: 7 Error: 0 */
+genomestart 29
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+node 21 1 0 0
+gene 1 1 8 0.201699 0 1 0.201699 1
+gene 3 2 8 1.23227 0 2 1.23227 0
+gene 3 3 8 1.22583 0 3 1.22583 1
+gene 1 4 8 -2.56365 0 4 -2.56365 1
+gene 1 5 8 1.84679 0 5 1.84679 1
+gene 2 6 8 0.837799 0 6 0.837799 0
+gene 2 7 8 -0.0692502 0 7 -0.0692502 1
+gene 2 6 21 1 0 35 0 1
+gene 2 21 8 0.837799 0 36 0 1
+genomeend 29
+
+/* Organism #30 Fitness: 14 Error: 0 */
+genomestart 30
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -1.83544 0 1 -1.83544 1
+gene 3 2 8 -3.33344 0 2 -3.33344 1
+gene 3 3 8 -0.63553 0 3 -0.63553 1
+gene 2 4 8 -0.00597628 0 4 -0.00597628 1
+gene 1 5 8 -0.695181 0 5 -0.695181 1
+gene 2 6 8 2.37948 0 6 2.37948 1
+gene 1 7 8 -2.3087 0 7 -2.3087 1
+genomeend 30
+
+/* Organism #31 Fitness: 28 Error: 0 */
+genomestart 31
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 0.453811 0 1 0.453811 1
+gene 3 2 8 0.0999756 0 2 0.0999756 1
+gene 1 3 8 -0.807258 0 3 -0.807258 0
+gene 2 4 8 1.28759 0 4 1.28759 1
+gene 1 5 8 2.34529 0 5 2.34529 1
+gene 1 6 8 0.184619 0 6 0.184619 1
+gene 1 7 8 -0.0291689 0 7 -0.0291689 1
+gene 3 3 11 0.41638 0 12 0.41638 1
+gene 3 11 8 0.761306 0 13 0.761306 1
+genomeend 31
+
+/* Organism #32 Fitness: 9 Error: 0 */
+genomestart 32
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 2.53494 0 1 2.53494 1
+gene 3 2 8 0.682988 0 2 0.682988 0
+gene 3 3 8 2.46913 0 3 2.46913 1
+gene 3 4 8 1.21291 0 4 1.21291 1
+gene 3 5 8 -0.876473 0 5 -0.876473 1
+gene 2 6 8 0.641262 0 6 0.641262 1
+gene 1 7 8 1.01109 0 7 1.01109 1
+genomeend 32
+
+/* Organism #33 Fitness: 5 Error: 0 */
+genomestart 33
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0 0 0 0 0.614123 0 0.616129 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 -0.978465 0 1 -0.978465 1
+gene 1 2 8 1.34855 0 2 1.34855 0
+gene 3 3 8 -2.04306 0 3 -2.04306 1
+gene 3 4 8 4.097 0 4 4.097 1
+gene 1 5 8 3.76858 0 5 3.76858 1
+gene 2 6 8 -1.41467 0 6 -1.41467 1
+gene 3 7 8 -1.81534 0 7 -1.81534 1
+genomeend 33
+
+/* Organism #34 Fitness: 18 Error: 0 */
+genomestart 34
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 0.832621 0 1 0.832621 1
+gene 3 2 8 1.52345 0 2 1.52345 1
+gene 1 3 8 -3.8896 0 3 -3.8896 1
+gene 3 4 8 0.0963002 0 4 0.0963002 1
+gene 1 5 8 -0.348814 0 5 -0.348814 1
+gene 2 6 8 2.33297 0 6 2.33297 1
+gene 1 7 8 -1.09438 0 7 -1.09438 1
+genomeend 34
+
+/* Organism #35 Fitness: 83 Error: 0 */
+genomestart 35
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 3 1 8 -0.684711 0 1 -0.684711 1
+gene 1 2 8 0.0415223 0 2 0.0415223 1
+gene 3 3 8 0.952043 0 3 0.952043 1
+gene 3 4 8 -1.16676 0 4 -1.16676 1
+gene 1 5 8 0.616103 0 5 0.616103 1
+gene 1 6 8 1.53858 0 6 1.53858 1
+gene 1 7 8 -0.384286 0 7 -0.384286 1
+genomeend 35
+
+/* Organism #36 Fitness: 17 Error: 0 */
+genomestart 36
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 2 1 8 -1.62252 0 1 -1.62252 1
+gene 3 2 8 2.86029 0 2 2.86029 0
+gene 3 3 8 1.84525 0 3 1.84525 1
+gene 3 4 8 1.75985 0 4 1.75985 1
+gene 1 5 8 0.506152 0 5 0.506152 1
+gene 1 6 8 2.86165 0 6 2.86165 1
+gene 3 7 8 1.95862 0 7 1.95862 1
+genomeend 36
+
+/* Organism #37 Fitness: 5 Error: 0 */
+genomestart 37
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 0.942695 0 1 0.942695 1
+gene 3 2 8 3.64479 0 2 3.64479 1
+gene 1 3 8 0.0385182 0 3 0.0385182 1
+gene 3 4 8 3.15803 0 4 3.15803 1
+gene 3 5 8 2.06036 0 5 2.06036 1
+gene 1 6 8 -2.28282 0 6 -2.28282 1
+gene 3 7 8 -2.18371 0 7 -2.18371 1
+genomeend 37
+
+/* Organism #38 Fitness: 48 Error: 0 */
+genomestart 38
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 3 0 2
+node 11 1 0 0
+gene 1 1 8 1.8755 0 1 1.8755 1
+gene 3 2 8 4.87143 0 2 4.87143 1
+gene 3 3 8 -1.05046 0 3 -1.05046 0
+gene 1 4 8 -0.521283 0 4 -0.521283 1
+gene 2 5 8 2.11262 0 5 2.11262 1
+gene 2 6 8 0.939905 0 6 0.939905 1
+gene 1 7 8 -1.75843 0 7 -1.75843 1
+gene 3 3 11 -0.19135 0 12 -0.19135 1
+gene 3 11 8 1.11576 0 13 1.11576 1
+genomeend 38
+
+/* Organism #39 Fitness: 16 Error: 0 */
+genomestart 39
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -1.77152 0 1 -1.77152 1
+gene 1 2 8 0.762398 0 2 0.762398 1
+gene 3 3 8 4.26657 0 3 4.26657 1
+gene 1 4 8 -1.43301 0 4 -1.43301 1
+gene 1 5 8 -1.42671 0 5 -1.42671 1
+gene 2 6 8 2.11498 0 6 2.11498 1
+gene 1 7 8 0.440722 0 7 0.440722 1
+genomeend 39
+
+/* Organism #40 Fitness: 5 Error: 0 */
+genomestart 40
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 0.703128 0 1 0.703128 1
+gene 1 2 8 2.65075 0 2 2.65075 0
+gene 3 3 8 1.97704 0 3 1.97704 1
+gene 3 4 8 -0.957853 0 4 -0.957853 1
+gene 3 5 8 4.09958 0 5 4.09958 1
+gene 2 6 8 -1.18894 0 6 -1.18894 1
+gene 1 7 8 1.29666 0 7 1.29666 1
+genomeend 40
+
+/* Organism #41 Fitness: 5 Error: 0 */
+genomestart 41
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 1 1 8 -0.190167 0 1 -0.190167 1
+gene 3 2 8 -1.81405 0 2 -1.81405 1
+gene 3 3 8 0.827354 0 3 0.827354 1
+gene 2 4 8 2.45445 0 4 2.45445 1
+gene 3 5 8 1.9932 0 5 1.9932 1
+gene 1 6 8 -1.89413 0 6 -1.89413 1
+gene 2 7 8 1.13749 0 7 1.13749 1
+genomeend 41
+
+/* Organism #42 Fitness: 72 Error: 0 */
+genomestart 42
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+node 11 1 0 0
+gene 2 1 8 -0.390402 0 1 -0.390402 1
+gene 3 2 8 0.887631 0 2 0.887631 1
+gene 3 3 8 -0.32535 0 3 -0.32535 0
+gene 2 4 8 -0.875113 0 4 -0.875113 1
+gene 3 5 8 3.22607 0 5 3.22607 1
+gene 1 6 8 1.02991 0 6 1.02991 1
+gene 2 7 8 -0.977858 0 7 -0.977858 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 -0.170107 0 13 -0.170107 1
+genomeend 42
+
+/* Organism #43 Fitness: 85 Error: 0 */
+genomestart 43
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 2.51838 0 1 2.51838 1
+gene 3 2 8 2.96839 0 2 2.96839 1
+gene 3 3 8 -1.73698 0 3 -1.73698 0
+gene 2 4 8 1.50626 0 4 1.50626 1
+gene 1 5 8 2.8737 0 5 2.8737 1
+gene 1 6 8 1.68566 0 6 1.68566 1
+gene 1 7 8 0.44442 0 7 0.44442 1
+gene 3 3 11 3.91722 0 12 3.91722 1
+gene 3 11 8 -1.09439 0 13 -1.09439 1
+genomeend 43
+
+/* Organism #44 Fitness: 6 Error: 0 */
+genomestart 44
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 3 1 8 1.98954 0 1 1.98954 1
+gene 2 2 8 -1.56588 0 2 -1.56588 1
+gene 3 3 8 0.976208 0 3 0.976208 1
+gene 3 4 8 1.26236 0 4 1.26236 1
+gene 1 5 8 -2.01644 0 5 -2.01644 1
+gene 1 6 8 0.357145 0 6 0.357145 1
+gene 3 7 8 1.97415 0 7 1.97415 1
+genomeend 44
+
+/* Organism #45 Fitness: 8 Error: 0 */
+genomestart 45
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 -1.95664 0 1 -1.95664 1
+gene 1 2 8 2.50225 0 2 2.50225 1
+gene 3 3 8 2.35423 0 3 2.35423 1
+gene 2 4 8 -4.23634 0 4 -4.23634 1
+gene 1 5 8 1.34104 0 5 1.34104 1
+gene 1 6 8 0.222529 0 6 0.222529 1
+gene 1 7 8 0.395203 0 7 0.395203 1
+gene 3 3 11 -0.465679 0 12 -0.465679 1
+gene 3 11 8 -2.62039 0 13 -2.62039 1
+genomeend 45
+
+/* Organism #46 Fitness: 46 Error: 0 */
+genomestart 46
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 -1.10985 0 1 -1.10985 1
+gene 3 2 8 0.921999 0 2 0.921999 1
+gene 1 3 8 -3.30287 0 3 -3.30287 1
+gene 3 4 8 0.472706 0 4 0.472706 1
+gene 1 5 8 1.40245 0 5 1.40245 1
+gene 2 6 8 2.15121 0 6 2.15121 1
+gene 3 7 8 0.258095 0 7 0.258095 1
+genomeend 46
+
+/* Organism #47 Fitness: 20 Error: 0 */
+genomestart 47
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0.380738 0 0 0 0 0 0.566355 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+gene 2 1 8 -0.710187 0 1 -0.710187 1
+gene 3 2 8 3.27899 0 2 3.27899 1
+gene 3 3 8 -0.130604 0 3 -0.130604 0
+gene 2 4 8 -0.855397 0 4 -0.855397 1
+gene 1 5 8 3.20423 0 5 3.20423 1
+gene 3 6 8 0.342704 0 6 0.342704 1
+gene 2 7 8 0.923614 0 7 0.923614 1
+genomeend 47
+
+/* Organism #48 Fitness: 31 Error: 0 */
+genomestart 48
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 -1.10985 0 1 -1.10985 1
+gene 3 2 8 1.23227 0 2 1.23227 0
+gene 3 3 8 1.22583 0 3 1.22583 1
+gene 3 4 8 2.88632 0 4 2.88632 1
+gene 1 5 8 1.84679 0 5 1.84679 1
+gene 2 6 8 0.296513 0 6 0.296513 1
+gene 3 7 8 -0.75621 0 7 -0.75621 1
+genomeend 48
+
+/* Organism #49 Fitness: 11 Error: 0 */
+genomestart 49
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 1 1 8 -2.09383 0 1 -2.09383 1
+gene 2 2 8 -1.77442 0 2 -1.77442 1
+gene 2 3 8 -1.38119 0 3 -1.38119 1
+gene 2 4 8 1.43095 0 4 1.43095 1
+gene 3 5 8 -1.36693 0 5 -1.36693 1
+gene 3 6 8 1.14836 0 6 1.14836 1
+gene 3 7 8 2.07556 0 7 2.07556 1
+genomeend 49
+
+/* Organism #50 Fitness: 5 Error: 0 */
+genomestart 50
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 2 1 8 -0.804312 0 1 -0.804312 1
+gene 3 2 8 2.87939 0 2 2.87939 0
+gene 3 3 8 0.438614 0 3 0.438614 1
+gene 3 4 8 -0.685044 0 4 -0.685044 1
+gene 1 5 8 0.760469 0 5 0.760469 1
+gene 2 6 8 -1.23001 0 6 -1.23001 1
+gene 2 7 8 1.15413 0 7 1.15413 1
+genomeend 50
+
+/* Organism #51 Fitness: 40 Error: 0 */
+genomestart 51
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 0.235457 0 1 0.235457 1
+gene 2 2 8 0.245367 0 2 0.245367 0
+gene 3 3 8 8.0112e-05 0 3 8.0112e-05 1
+gene 3 4 8 -0.290867 0 4 -0.290867 1
+gene 3 5 8 2.88668 0 5 2.88668 1
+gene 1 6 8 0.581348 0 6 0.581348 1
+gene 3 7 8 -0.0799303 0 7 -0.0799303 1
+genomeend 51
+
+/* Organism #52 Fitness: 46 Error: 0 */
+genomestart 52
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+gene 2 1 8 0.453811 0 1 0.453811 1
+gene 2 2 8 0.245367 0 2 0.245367 1
+gene 3 3 8 0.0521144 0 3 0.0521144 0
+gene 3 4 8 -0.290867 0 4 -0.290867 1
+gene 1 5 8 0.462376 0 5 0.462376 1
+gene 1 6 8 0.581348 0 6 0.581348 1
+gene 3 7 8 -0.0799303 0 7 -0.0799303 1
+genomeend 52
+
+/* Organism #53 Fitness: 5 Error: 0 */
+genomestart 53
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 3 1 8 -0.874208 0 1 -0.874208 1
+gene 2 2 8 2.62053 0 2 2.62053 1
+gene 3 3 8 -0.447356 0 3 -0.447356 1
+gene 3 4 8 -1.02621 0 4 -1.02621 1
+gene 1 5 8 -1.49332 0 5 -1.49332 1
+gene 2 6 8 0.394177 0 6 0.394177 1
+gene 3 7 8 -0.765905 0 7 -0.765905 1
+genomeend 53
+
+/* Organism #54 Fitness: 8 Error: 0 */
+genomestart 54
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0.825411 0.690478 0.675099 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 3 1 8 0.000736041 0 1 0.000736041 1
+gene 1 2 8 0.88129 0 2 0.88129 1
+gene 3 3 8 -0.580867 0 3 -0.580867 1
+gene 3 4 8 1.52427 0 4 1.52427 1
+gene 2 5 8 -0.682341 0 5 -0.682341 1
+gene 1 6 8 0.581348 0 6 0.581348 1
+gene 3 7 8 -1.88124 0 7 -1.88124 1
+genomeend 54
+
+/* Organism #55 Fitness: 21 Error: 0 */
+genomestart 55
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 0.408487 0 1 0.408487 1
+gene 3 2 8 2.25165 0 2 2.25165 0
+gene 2 3 8 2.65855 0 3 2.65855 1
+gene 3 4 8 2.91181 0 4 2.91181 1
+gene 3 5 8 2.58738 0 5 2.58738 1
+gene 2 6 8 1.69006 0 6 1.69006 1
+gene 3 7 8 0.230524 0 7 0.230524 1
+genomeend 55
+
+/* Organism #56 Fitness: 42 Error: 0 */
+genomestart 56
+trait 1 0.211824 0 0 0 0 0 0.479166 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 3 0 2
+gene 1 1 8 -2.21751 0 1 -2.21751 1
+gene 3 2 8 -1.58322 0 2 -1.58322 1
+gene 3 3 8 -1.65564 0 3 -1.65564 1
+gene 1 4 8 -3.13073 0 4 -3.13073 1
+gene 2 5 8 2.76714 0 5 2.76714 1
+gene 2 6 8 1.12189 0 6 1.12189 1
+gene 2 7 8 -1.82041 0 7 -1.82041 1
+genomeend 56
+
+/* Organism #57 Fitness: 20 Error: 0 */
+genomestart 57
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 0.108863 0 1 0.108863 1
+gene 3 2 8 1.23227 0 2 1.23227 0
+gene 3 3 8 1.22583 0 3 1.22583 1
+gene 3 4 8 2.88632 0 4 2.88632 1
+gene 1 5 8 0.533205 0 5 0.533205 1
+gene 3 6 8 0.646931 0 6 0.646931 1
+gene 2 7 8 -0.164336 0 7 -0.164336 1
+genomeend 57
+
+/* Organism #58 Fitness: 5 Error: 0 */
+genomestart 58
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 1 1 8 0.586834 0 1 0.586834 1
+gene 3 2 8 -1.43082 0 2 -1.43082 1
+gene 3 3 8 -3.12915 0 3 -3.12915 1
+gene 2 4 8 -1.44737 0 4 -1.44737 1
+gene 3 5 8 3.72205 0 5 3.72205 1
+gene 3 6 8 -0.187715 0 6 -0.187715 1
+gene 1 7 8 -2.82591 0 7 -2.82591 1
+genomeend 58
+
+/* Organism #59 Fitness: 14 Error: 0 */
+genomestart 59
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 2 1 8 -2.55261 0 1 -2.55261 1
+gene 3 2 8 -0.423097 0 2 -0.423097 0
+gene 3 3 8 3.63265 0 3 3.63265 1
+gene 3 4 8 4.69773 0 4 4.69773 1
+gene 1 5 8 3.68468 0 5 3.68468 1
+gene 2 6 8 -0.556469 0 6 -0.556469 1
+gene 3 7 8 -0.872244 0 7 -0.872244 1
+genomeend 59
+
+/* Organism #60 Fitness: 35 Error: 0 */
+genomestart 60
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 2.02701 0 1 2.02701 1
+gene 3 2 8 -0.556335 0 2 -0.556335 1
+gene 3 3 8 -2.31897 0 3 -2.31897 1
+gene 1 4 8 -1.9498 0 4 -1.9498 1
+gene 1 5 8 2.52295 0 5 2.52295 1
+gene 3 6 8 1.57178 0 6 1.57178 1
+gene 2 7 8 -2.30195 0 7 -2.30195 1
+genomeend 60
+
+/* Organism #61 Fitness: 92 Error: 0 */
+genomestart 61
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 -0.328022 0 1 -0.328022 1
+gene 1 2 8 1.32357 0 2 1.32357 1
+gene 3 3 8 0.498929 0 3 0.498929 0
+gene 2 4 8 -0.252147 0 4 -0.252147 1
+gene 1 5 8 2.23548 0 5 2.23548 1
+gene 2 6 8 0.991088 0 6 0.991088 1
+gene 1 7 8 -0.667405 0 7 -0.667405 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 -0.170107 0 13 -0.170107 1
+genomeend 61
+
+/* Organism #62 Fitness: 35 Error: 0 */
+genomestart 62
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 3 1 8 -0.0558091 0 1 -0.0558091 1
+gene 3 2 8 -0.343588 0 2 -0.343588 1
+gene 1 3 8 -4.19317 0 3 -4.19317 1
+gene 1 4 8 1.71803 0 4 1.71803 1
+gene 1 5 8 1.65135 0 5 1.65135 1
+gene 2 6 8 4.20713 0 6 4.20713 1
+gene 3 7 8 -0.686511 0 7 -0.686511 1
+genomeend 62
+
+/* Organism #63 Fitness: 5 Error: 0 */
+genomestart 63
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 3 0 2
+gene 1 1 8 -2.25062 0 1 -2.25062 1
+gene 1 2 8 -0.0540939 0 2 -0.0540939 1
+gene 3 3 8 0.203302 0 3 0.203302 1
+gene 1 4 8 -4.4522 0 4 -4.4522 1
+gene 2 5 8 0.263474 0 5 0.263474 1
+gene 2 6 8 0.166077 0 6 0.166077 1
+gene 2 7 8 1.08627 0 7 1.08627 1
+genomeend 63
+
+/* Organism #64 Fitness: 10 Error: 0 */
+genomestart 64
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 -0.582565 0 1 -0.582565 1
+gene 3 2 8 2.55018 0 2 2.55018 0
+gene 3 3 8 1.96496 0 3 1.96496 0
+gene 2 4 8 -1.46624 0 4 -1.46624 1
+gene 1 5 8 -0.542071 0 5 -0.542071 1
+gene 1 6 8 1.24848 0 6 1.24848 1
+gene 3 7 8 -2.62657 0 7 -2.62657 1
+gene 3 3 11 0.239031 0 12 0.239031 1
+gene 3 11 8 -0.344791 0 13 -0.344791 1
+genomeend 64
+
+/* Organism #65 Fitness: 50 Error: 0 */
+genomestart 65
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 0.431737 0 1 0.431737 1
+gene 3 2 8 1.64626 0 2 1.64626 1
+gene 1 3 8 -1.56023 0 3 -1.56023 1
+gene 3 4 8 1.93037 0 4 1.93037 1
+gene 3 5 8 4.01973 0 5 4.01973 1
+gene 2 6 8 0.0231003 0 6 0.0231003 1
+gene 3 7 8 -0.454937 0 7 -0.454937 1
+genomeend 65
+
+/* Organism #66 Fitness: 82 Error: 0 */
+genomestart 66
+trait 1 0.105179 0 0 0 0.188241 0.964052 0.234013 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 0.0944038 0 1 0.0944038 1
+gene 3 2 8 1.93954 0 2 1.93954 1
+gene 3 3 8 1.6014 0 3 1.6014 1
+gene 2 4 8 -2.12155 0 4 -2.12155 1
+gene 3 5 8 1.2709 0 5 1.2709 1
+gene 3 6 8 1.16419 0 6 1.16419 1
+gene 1 7 8 -1.20497 0 7 -1.20497 1
+genomeend 66
+
+/* Organism #67 Fitness: 24 Error: 0 */
+genomestart 67
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -2.19299 0 1 -2.19299 1
+gene 3 2 8 0.341934 0 2 0.341934 1
+gene 3 3 8 4.69523 0 3 4.69523 1
+gene 2 4 8 -0.848495 0 4 -0.848495 1
+gene 1 5 8 -0.353904 0 5 -0.353904 1
+gene 2 6 8 4.90876 0 6 4.90876 1
+gene 1 7 8 0.312109 0 7 0.312109 1
+genomeend 67
+
+/* Organism #68 Fitness: 31 Error: 0 */
+genomestart 68
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -1.29257 0 1 -1.29257 1
+gene 1 2 8 1.77576 0 2 1.77576 0
+gene 3 3 8 8.0112e-05 0 3 8.0112e-05 1
+gene 3 4 8 1.21291 0 4 1.21291 1
+gene 1 5 8 0.76983 0 5 0.76983 1
+gene 2 6 8 0.641262 0 6 0.641262 1
+gene 1 7 8 -0.688641 0 7 -0.688641 1
+genomeend 68
+
+/* Organism #69 Fitness: 32 Error: 0 */
+genomestart 69
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 1.2364 0 1 1.2364 1
+gene 1 2 8 2.44864 0 2 2.44864 0
+gene 3 3 8 3.0134 0 3 3.0134 1
+gene 3 4 8 -0.590714 0 4 -0.590714 1
+gene 1 5 8 0.573148 0 5 0.573148 1
+gene 2 6 8 0.725247 0 6 0.725247 1
+gene 1 7 8 -1.6544 0 7 -1.6544 1
+genomeend 69
+
+/* Organism #70 Fitness: 115 Error: 0 */
+genomestart 70
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 3 1 8 -2.34829 0 1 -2.34829 1
+gene 1 2 8 1.58283 0 2 1.58283 1
+gene 3 3 8 3.27353 0 3 3.27353 1
+gene 1 4 8 0.667694 0 4 0.667694 1
+gene 3 5 8 3.75117 0 5 3.75117 1
+gene 2 6 8 0.580882 0 6 0.580882 1
+gene 3 7 8 -2.45896 0 7 -2.45896 1
+genomeend 70
+
+/* Organism #71 Fitness: 121 Error: 0 */
+genomestart 71
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 0.108863 0 1 0.108863 1
+gene 3 2 8 0.227711 0 2 0.227711 1
+gene 3 3 8 -0.348606 0 3 -0.348606 1
+gene 2 4 8 -0.0674422 0 4 -0.0674422 1
+gene 1 5 8 0.533205 0 5 0.533205 1
+gene 3 6 8 0.646931 0 6 0.646931 1
+gene 2 7 8 -0.164336 0 7 -0.164336 1
+genomeend 71
+
+/* Organism #72 Fitness: 5 Error: 0 */
+genomestart 72
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 3 1 8 0.731983 0 1 0.731983 1
+gene 3 2 8 2.46479 0 2 2.46479 0
+gene 3 3 8 3.16811 0 3 3.16811 1
+gene 3 4 8 -2.26055 0 4 -2.26055 1
+gene 1 5 8 3.1 0 5 3.1 1
+gene 2 6 8 -1.32968 0 6 -1.32968 1
+gene 3 7 8 1.73476 0 7 1.73476 1
+genomeend 72
+
+/* Organism #73 Fitness: 5 Error: 0 */
+genomestart 73
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 1.19309 0 1 1.19309 1
+gene 3 2 8 -2.14841 0 2 -2.14841 1
+gene 2 3 8 2.6785 0 3 2.6785 1
+gene 2 4 8 -0.0362303 0 4 -0.0362303 1
+gene 3 5 8 1.21421 0 5 1.21421 1
+gene 3 6 8 -0.729827 0 6 -0.729827 1
+gene 1 7 8 0.0676266 0 7 0.0676266 1
+genomeend 73
+
+/* Organism #74 Fitness: 29 Error: 0 */
+genomestart 74
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 0.542035 0 1 0.542035 1
+gene 1 2 8 1.77939 0 2 1.77939 1
+gene 3 3 8 -0.450341 0 3 -0.450341 1
+gene 3 4 8 1.4244 0 4 1.4244 1
+gene 3 5 8 1.42662 0 5 1.42662 1
+gene 2 6 8 0.671676 0 6 0.671676 1
+gene 3 7 8 0.778221 0 7 0.778221 1
+genomeend 74
+
+/* Organism #75 Fitness: 55 Error: 0 */
+genomestart 75
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 -1.68749 0 1 -1.68749 1
+gene 3 2 8 2.17092 0 2 2.17092 1
+gene 2 3 8 -0.408982 0 3 -0.408982 0
+gene 2 4 8 1.72013 0 4 1.72013 1
+gene 3 5 8 -0.541369 0 5 -0.541369 1
+gene 1 6 8 0.918021 0 6 0.918021 1
+gene 1 7 8 -0.370532 0 7 -0.370532 1
+gene 2 3 11 -0.830936 0 12 -0.830936 1
+gene 3 11 8 0.139049 0 13 0.139049 1
+genomeend 75
+
+/* Organism #76 Fitness: 53 Error: 0 */
+genomestart 76
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -0.562876 0 1 -0.562876 1
+gene 3 2 8 -0.330204 0 2 -0.330204 1
+gene 3 3 8 -0.52571 0 3 -0.52571 1
+gene 2 4 8 -0.420334 0 4 -0.420334 1
+gene 3 5 8 2.05582 0 5 2.05582 1
+gene 3 6 8 0.510548 0 6 0.510548 1
+gene 2 7 8 -0.770726 0 7 -0.770726 1
+genomeend 76
+
+/* Organism #77 Fitness: 5 Error: 0 */
+genomestart 77
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 1 1 1
+node 5 2 1 1
+node 6 1 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 1.47992 0 1 1.47992 1
+gene 3 2 8 -0.733324 0 2 -0.733324 1
+gene 3 3 8 0.0776421 0 3 0.0776421 1
+gene 2 4 8 0.104674 0 4 0.104674 1
+gene 1 5 8 -0.63325 0 5 -0.63325 1
+gene 3 6 8 0.299028 0 6 0.299028 1
+gene 2 7 8 -2.46392 0 7 -2.46392 1
+genomeend 77
+
+/* Organism #78 Fitness: 51 Error: 0 */
+genomestart 78
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 1 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 0.192544 0 1 0.192544 1
+gene 3 2 8 0.934448 0 2 0.934448 1
+gene 2 3 8 -0.361826 0 3 -0.361826 1
+gene 3 4 8 0.594448 0 4 0.594448 1
+gene 3 5 8 1.83742 0 5 1.83742 1
+gene 3 6 8 0.445971 0 6 0.445971 1
+gene 1 7 8 -0.430902 0 7 -0.430902 1
+genomeend 78
+
+/* Organism #79 Fitness: 6 Error: 0 */
+genomestart 79
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 -0.545438 0 1 -0.545438 1
+gene 1 2 8 -0.226827 0 2 -0.226827 1
+gene 3 3 8 1.1161 0 3 1.1161 1
+gene 1 4 8 -3.64136 0 4 -3.64136 1
+gene 2 5 8 1.24854 0 5 1.24854 1
+gene 2 6 8 -1.40421 0 6 -1.40421 1
+gene 1 7 8 -0.378946 0 7 -0.378946 1
+genomeend 79
+
+/* Organism #80 Fitness: 5 Error: 0 */
+genomestart 80
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 1 0 0.454427 0.496696 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 3 1 1
+node 7 2 1 3
+node 8 1 0 2
+gene 1 1 8 -2.43393 0 1 -2.43393 1
+gene 3 2 8 1.50059 0 2 1.50059 1
+gene 2 3 8 0.352656 0 3 0.352656 1
+gene 3 4 8 -2.54525 0 4 -2.54525 1
+gene 3 5 8 2.55733 0 5 2.55733 1
+gene 3 6 8 0.150962 0 6 0.150962 1
+gene 1 7 8 -1.39051 0 7 -1.39051 1
+genomeend 80
+
+/* Organism #81 Fitness: 31 Error: 0 */
+genomestart 81
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 2 1 1
+node 4 1 1 1
+node 5 3 1 1
+node 6 2 1 1
+node 7 3 1 3
+node 8 1 0 2
+gene 1 1 8 -1.58435 0 1 -1.58435 1
+gene 3 2 8 -0.675115 0 2 -0.675115 1
+gene 3 3 8 0.969262 0 3 0.969262 1
+gene 3 4 8 0.113376 0 4 0.113376 1
+gene 3 5 8 4.72104 0 5 4.72104 1
+gene 1 6 8 0.335339 0 6 0.335339 1
+gene 2 7 8 0.934978 0 7 0.934978 1
+genomeend 81
+
+/* Organism #82 Fitness: 5 Error: 0 */
+genomestart 82
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 2 1 3
+node 8 2 0 2
+gene 1 1 8 -0.973239 0 1 -0.973239 1
+gene 3 2 8 2.22664 0 2 2.22664 1
+gene 2 3 8 -0.743407 0 3 -0.743407 1
+gene 2 4 8 0.213737 0 4 0.213737 1
+gene 3 5 8 3.83192 0 5 3.83192 1
+gene 3 6 8 -1.45746 0 6 -1.45746 1
+gene 1 7 8 0.593412 0 7 0.593412 1
+genomeend 82
+
+/* Organism #83 Fitness: 34 Error: 0 */
+genomestart 83
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 1 1 1
+node 2 2 1 1
+node 3 2 1 1
+node 4 2 1 1
+node 5 2 1 1
+node 6 2 1 1
+node 7 1 1 3
+node 8 2 0 2
+gene 1 1 8 1.60756 0 1 1.60756 1
+gene 1 2 8 0.467583 0 2 0.467583 0
+gene 3 3 8 -0.57125 0 3 -0.57125 1
+gene 3 4 8 -0.925528 0 4 -0.925528 1
+gene 3 5 8 1.41409 0 5 1.41409 1
+gene 2 6 8 3.11475 0 6 3.11475 1
+gene 1 7 8 -2.46088 0 7 -2.46088 1
+genomeend 83
+
+/* Species #2 : (Size 65) (AF 31.0462) (Age 3)  */
+
+
+/* Organism #84 Fitness: 104 Error: 0 */
+genomestart 84
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.44863 0 1 2.44863 1
+gene 3 2 8 1.83531 0 2 1.83531 1
+gene 2 3 8 0.193942 0 3 0.193942 0
+gene 1 4 8 0.211539 0 4 0.211539 1
+gene 1 5 8 1.12386 0 5 1.12386 1
+gene 1 6 8 0.505524 0 6 0.505524 1
+gene 1 7 8 0.987603 0 7 0.987603 1
+gene 3 3 11 0.80107 0 12 0.80107 1
+gene 3 11 8 -0.409129 0 13 -0.409129 0
+gene 3 11 15 1.56757 0 20 1.56757 1
+gene 3 15 8 -1.01347 0 21 -1.01347 1
+genomeend 84
+
+/* Organism #85 Fitness: 76 Error: 0 */
+genomestart 85
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.44863 0 1 2.44863 1
+gene 3 2 8 1.83531 0 2 1.83531 1
+gene 2 3 8 0.193942 0 3 0.193942 0
+gene 1 4 8 -0.403232 0 4 -0.403232 1
+gene 1 5 8 1.12386 0 5 1.12386 1
+gene 1 6 8 0.828781 0 6 0.828781 1
+gene 1 7 8 0.987603 0 7 0.987603 1
+gene 3 3 11 1.24151 0 12 1.24151 1
+gene 3 11 8 1.40945 0 13 1.40945 0
+gene 3 11 15 1.56757 0 20 1.56757 1
+gene 3 15 8 -1.01347 0 21 -1.01347 1
+genomeend 85
+
+/* Organism #86 Fitness: 5 Error: 0 */
+genomestart 86
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 3.65635 0 1 3.65635 1
+gene 3 2 8 1.83762 0 2 1.83762 1
+gene 2 3 8 -0.297797 0 3 -0.297797 0
+gene 1 4 8 -0.86288 0 4 -0.86288 1
+gene 1 5 8 3.7865 0 5 3.7865 1
+gene 1 6 8 -0.927194 0 6 -0.927194 1
+gene 1 7 8 -1.93498 0 7 -1.93498 1
+gene 3 3 11 1.7021 0 12 1.7021 1
+gene 3 11 8 -2.97984 0 13 -2.97984 0
+gene 3 11 15 1 0 20 1 1
+gene 3 15 8 0.0157511 0 21 0.0157511 1
+genomeend 86
+
+/* Organism #87 Fitness: 23 Error: 0 */
+genomestart 87
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 5.03468 0 1 5.03468 1
+gene 3 2 8 -2.06238 0 2 -2.06238 1
+gene 2 3 8 -0.357739 0 3 -0.357739 0
+gene 1 4 8 0.744652 0 4 0.744652 1
+gene 1 5 8 2.10938 0 5 2.10938 1
+gene 1 6 8 3.04733 0 6 3.04733 1
+gene 1 7 8 2.18422 0 7 2.18422 1
+gene 3 3 11 -1.44064 0 12 -1.44064 0
+gene 3 11 8 -2.9762 0 13 -2.9762 1
+gene 3 11 15 2.84244 0 20 2.84244 1
+gene 3 15 8 -2.10112 0 21 -2.10112 1
+genomeend 87
+
+/* Organism #88 Fitness: 46 Error: 0 */
+genomestart 88
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.37606 0 1 2.37606 1
+gene 3 2 8 0.487731 0 2 0.487731 1
+gene 2 3 8 1.15817 0 3 1.15817 0
+gene 1 4 8 -0.515805 0 4 -0.515805 1
+gene 1 5 8 0.822125 0 5 0.822125 1
+gene 1 6 8 0.83671 0 6 0.83671 1
+gene 1 7 8 0.596874 0 7 0.596874 1
+gene 3 3 11 1 0 12 0 1
+gene 3 11 8 -0.827754 0 13 0 0
+gene 3 11 15 1 0 20 0 1
+gene 3 15 8 -0.827754 0 21 0 1
+genomeend 88
+
+/* Organism #89 Fitness: 69 Error: 0 */
+genomestart 89
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.24989 0 1 4.24989 1
+gene 3 2 8 2.90863 0 2 2.90863 1
+gene 2 3 8 1.54113 0 3 1.54113 0
+gene 1 4 8 2.0552 0 4 2.0552 1
+gene 1 5 8 2.7701 0 5 2.7701 1
+gene 1 6 8 1.65858 0 6 1.65858 1
+gene 1 7 8 -1.7429 0 7 -1.7429 1
+gene 3 3 11 -0.592847 0 12 -0.592847 1
+gene 3 11 8 -2.40519 0 13 -2.40519 0
+gene 3 11 15 0.337266 0 20 0.337266 1
+gene 3 15 8 0.580491 0 21 0.580491 1
+genomeend 89
+
+/* Organism #90 Fitness: 5 Error: 0 */
+genomestart 90
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.43107 0 1 2.43107 1
+gene 3 2 8 -0.152465 0 2 -0.152465 1
+gene 2 3 8 4.06831 0 3 4.06831 0
+gene 1 4 8 -1.24883 0 4 -1.24883 1
+gene 1 5 8 1.41738 0 5 1.41738 1
+gene 1 6 8 -0.381229 0 6 -0.381229 1
+gene 1 7 8 1.31091 0 7 1.31091 1
+gene 3 3 11 -0.219481 0 12 -0.219481 1
+gene 3 11 8 -2.6099 0 13 -2.6099 0
+gene 3 11 15 -0.136763 0 20 -0.136763 1
+gene 3 15 8 -0.418373 0 21 -0.418373 1
+genomeend 90
+
+/* Organism #91 Fitness: 52 Error: 0 */
+genomestart 91
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.95564 0 1 2.95564 1
+gene 3 2 8 1.52392 0 2 1.52392 1
+gene 2 3 8 -0.10078 0 3 -0.10078 1
+gene 1 4 8 2.23869 0 4 2.23869 1
+gene 1 5 8 2.88788 0 5 2.88788 1
+gene 1 6 8 0.671117 0 6 0.671117 1
+gene 1 7 8 -0.862925 0 7 -0.862925 1
+gene 3 3 11 3.19003 0 12 3.19003 1
+gene 3 11 8 -0.852768 0 13 -0.852768 0
+gene 3 11 15 -0.89679 0 20 -0.89679 1
+gene 3 15 8 -0.920611 0 21 -0.920611 1
+genomeend 91
+
+/* Organism #92 Fitness: 47 Error: 0 */
+genomestart 92
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.78977 0 1 1.78977 1
+gene 3 2 8 -1.42072 0 2 -1.42072 1
+gene 2 3 8 1.9514 0 3 1.9514 0
+gene 1 4 8 -1.60953 0 4 -1.60953 1
+gene 1 5 8 2.01728 0 5 2.01728 1
+gene 1 6 8 1.61965 0 6 1.61965 1
+gene 1 7 8 0.596874 0 7 0.596874 1
+gene 3 3 11 1.72909 0 12 1.72909 1
+gene 3 11 8 -0.827754 0 13 -0.827754 0
+gene 3 11 15 1 0 20 1 1
+gene 3 15 8 -0.841638 0 21 -0.841638 1
+gene 3 2 15 0.541837 0 27 0.541837 1
+genomeend 92
+
+/* Organism #93 Fitness: 39 Error: 0 */
+genomestart 93
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.410521 0 0 0 0.686198 0.134249 0 0.951888 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.27658 0 1 4.27658 1
+gene 3 2 8 1.63224 0 2 1.63224 1
+gene 2 3 8 -1.52211 0 3 -1.52211 0
+gene 1 4 8 -1.29858 0 4 -1.29858 1
+gene 1 5 8 2.71627 0 5 2.71627 1
+gene 1 6 8 0.790034 0 6 0.790034 1
+gene 1 7 8 -2.58852 0 7 -2.58852 1
+gene 3 3 11 -0.598486 0 12 -0.598486 1
+gene 3 11 8 1.01166 0 13 1.01166 0
+gene 3 11 15 -1.18783 0 20 -1.18783 1
+gene 3 15 8 -2.21254 0 21 -2.21254 1
+genomeend 93
+
+/* Organism #94 Fitness: 110 Error: 0 */
+genomestart 94
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 3 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 3.81568 0 1 3.81568 1
+gene 3 2 8 -1.37586 0 2 -1.37586 1
+gene 2 3 8 3.0814 0 3 3.0814 0
+gene 1 4 8 -2.58742 0 4 -2.58742 1
+gene 1 5 8 2.81013 0 5 2.81013 1
+gene 1 6 8 0.403469 0 6 0.403469 1
+gene 1 7 8 0.110476 0 7 0.110476 1
+gene 3 3 11 -0.607565 0 12 -0.607565 1
+gene 3 11 8 -0.409129 0 13 -0.409129 0
+gene 3 11 15 -0.284719 0 20 -0.284719 1
+gene 3 15 8 -1.01347 0 21 -1.01347 1
+genomeend 94
+
+/* Organism #95 Fitness: 26 Error: 0 */
+genomestart 95
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+node 20 1 0 0
+gene 2 1 8 2.37725 0 1 2.37725 1
+gene 3 2 8 -0.471195 0 2 -0.471195 0
+gene 2 3 8 0.280855 0 3 0.280855 0
+gene 1 4 8 -1.27179 0 4 -1.27179 1
+gene 1 5 8 0.977367 0 5 0.977367 1
+gene 1 6 8 0.683687 0 6 0.683687 1
+gene 1 7 8 1.63781 0 7 1.63781 1
+gene 3 3 11 2.99352 0 12 2.99352 1
+gene 3 11 8 -2.95446 0 13 -2.95446 0
+gene 3 11 15 0.319209 0 20 0.319209 1
+gene 3 15 8 -1.63853 0 21 -1.63853 1
+gene 3 2 20 0.671594 0 33 0.671594 1
+gene 3 20 8 2.52539 0 34 2.52539 1
+genomeend 95
+
+/* Organism #96 Fitness: 42 Error: 0 */
+genomestart 96
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 0.434404 0 1 0.434404 1
+gene 3 2 8 0.0465886 0 2 0.0465886 1
+gene 2 3 8 0.190212 0 3 0.190212 1
+gene 1 4 8 -2.37845 0 4 -2.37845 1
+gene 1 5 8 1.80092 0 5 1.80092 1
+gene 1 6 8 1.02825 0 6 1.02825 1
+gene 1 7 8 0.391748 0 7 0.391748 1
+gene 3 3 11 0.754437 0 12 0.754437 1
+gene 3 11 8 -0.203546 0 13 -0.203546 0
+gene 3 11 15 -0.0825873 0 20 -0.0825873 1
+gene 3 15 8 -0.0898799 0 21 -0.0898799 1
+genomeend 96
+
+/* Organism #97 Fitness: 5 Error: 0 */
+genomestart 97
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.26158 0 1 2.26158 1
+gene 3 2 8 0.727141 0 2 0.727141 1
+gene 2 3 8 1.97174 0 3 1.97174 0
+gene 1 4 8 0.0700362 0 4 0.0700362 1
+gene 1 5 8 -1.22068 0 5 -1.22068 1
+gene 1 6 8 -2.11372 0 6 -2.11372 1
+gene 1 7 8 2.95696 0 7 2.95696 1
+gene 3 3 11 1.55525 0 12 1.55525 1
+gene 3 11 8 -0.827754 0 13 -0.827754 0
+gene 3 11 15 -0.252269 0 20 -0.252269 1
+gene 3 15 8 -0.827754 0 21 -0.827754 1
+genomeend 97
+
+/* Organism #98 Fitness: 6 Error: 0 */
+genomestart 98
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.47113 0 1 1.47113 1
+gene 3 2 8 -0.256708 0 2 -0.256708 1
+gene 2 3 8 -2.17858 0 3 -2.17858 0
+gene 1 4 8 1.35218 0 4 1.35218 1
+gene 1 5 8 4.46738 0 5 4.46738 1
+gene 1 6 8 -0.794203 0 6 -0.794203 1
+gene 1 7 8 0.122076 0 7 0.122076 1
+gene 3 3 11 0.0529949 0 12 0.0529949 1
+gene 3 11 8 -1.90564 0 13 -1.90564 0
+gene 3 11 15 1.99156 0 20 1.99156 1
+gene 3 15 8 0.794438 0 21 0.794438 1
+genomeend 98
+
+/* Organism #99 Fitness: 6 Error: 0 */
+genomestart 99
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.05435 0 1 1.05435 1
+gene 3 2 8 -1.05273 0 2 -1.05273 1
+gene 2 3 8 -3.31366 0 3 -3.31366 0
+gene 1 4 8 -3.86948 0 4 -3.86948 1
+gene 1 5 8 2.64963 0 5 2.64963 1
+gene 1 6 8 0.345112 0 6 0.345112 1
+gene 1 7 8 -1.96245 0 7 -1.96245 1
+gene 3 3 11 0.887559 0 12 0.887559 1
+gene 3 11 8 -0.587982 0 13 -0.587982 0
+gene 3 11 15 -1.18817 0 20 -1.18817 1
+gene 3 15 8 -1.81539 0 21 -1.81539 1
+genomeend 99
+
+/* Organism #100 Fitness: 47 Error: 0 */
+genomestart 100
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.33593 0 1 4.33593 1
+gene 3 2 8 -0.194968 0 2 -0.194968 1
+gene 2 3 8 3.0814 0 3 3.0814 0
+gene 1 4 8 0.525177 0 4 0.525177 1
+gene 1 5 8 2.54143 0 5 2.54143 1
+gene 1 6 8 0.619726 0 6 0.619726 1
+gene 1 7 8 1.7169 0 7 1.7169 1
+gene 3 3 11 1.67779 0 12 1.67779 1
+gene 3 11 8 -1.90625 0 13 -1.90625 0
+gene 3 11 15 1.24268 0 20 1.24268 1
+gene 3 15 8 -1.83247 0 21 -1.83247 1
+genomeend 100
+
+/* Organism #101 Fitness: 55 Error: 0 */
+genomestart 101
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 -0.00172953 0 1 -0.00172953 1
+gene 3 2 8 0.693087 0 2 0.693087 1
+gene 2 3 8 -1.32914 0 3 -1.32914 0
+gene 1 4 8 0.0488015 0 4 0.0488015 1
+gene 1 5 8 0.763945 0 5 0.763945 1
+gene 1 6 8 1.93314 0 6 1.93314 1
+gene 1 7 8 -0.280235 0 7 -0.280235 1
+gene 3 3 11 1.67779 0 12 1.67779 1
+gene 3 11 8 -1.28685 0 13 -1.28685 0
+gene 3 11 15 -1.02728 0 20 -1.02728 1
+gene 3 15 8 -0.844953 0 21 -0.844953 1
+genomeend 101
+
+/* Organism #102 Fitness: 24 Error: 0 */
+genomestart 102
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.40233 0 1 4.40233 1
+gene 3 2 8 0.409663 0 2 0.409663 1
+gene 2 3 8 3.0814 0 3 3.0814 0
+gene 1 4 8 2.11776 0 4 2.11776 1
+gene 1 5 8 1.85239 0 5 1.85239 1
+gene 1 6 8 0.962473 0 6 0.962473 1
+gene 1 7 8 -0.901024 0 7 -0.901024 1
+gene 3 3 11 -2.29628 0 12 -2.29628 1
+gene 3 11 8 -3.12186 0 13 -3.12186 0
+gene 3 11 15 1.63894 0 20 1.63894 1
+gene 3 15 8 1.67127 0 21 1.67127 1
+genomeend 102
+
+/* Organism #103 Fitness: 86 Error: 0 */
+genomestart 103
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+node 22 1 0 0
+gene 2 1 8 2.37606 0 1 2.37606 1
+gene 3 2 8 0.487731 0 2 0.487731 0
+gene 2 3 8 1.15817 0 3 1.15817 0
+gene 1 4 8 -0.515805 0 4 -0.515805 1
+gene 1 5 8 0.822125 0 5 0.822125 1
+gene 1 6 8 0.83671 0 6 0.83671 1
+gene 1 7 8 0.596874 0 7 0.596874 1
+gene 3 3 11 1 0 12 0 1
+gene 3 11 8 -0.827754 0 13 0 0
+gene 3 11 15 1 0 20 0 1
+gene 3 15 8 -0.827754 0 21 0 1
+gene 3 2 22 1 0 38 0 1
+gene 3 22 8 0.487731 0 39 0 1
+genomeend 103
+
+/* Organism #104 Fitness: 6 Error: 0 */
+genomestart 104
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.44863 0 1 2.44863 1
+gene 3 2 8 1.83531 0 2 1.83531 1
+gene 2 3 8 0.193942 0 3 0.193942 0
+gene 1 4 8 -2.0329 0 4 -2.0329 1
+gene 1 5 8 1.12386 0 5 1.12386 1
+gene 1 6 8 0.505524 0 6 0.505524 1
+gene 1 7 8 -0.398832 0 7 -0.398832 1
+gene 3 3 11 2.99317 0 12 2.99317 1
+gene 3 11 8 0.18089 0 13 0.18089 0
+gene 3 11 15 1.56757 0 20 1.56757 1
+gene 3 15 8 -1.01347 0 21 -1.01347 1
+genomeend 104
+
+/* Organism #105 Fitness: 65 Error: 0 */
+genomestart 105
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.37606 0 1 2.37606 1
+gene 3 2 8 0.487731 0 2 0.487731 1
+gene 2 3 8 1.15817 0 3 1.15817 0
+gene 1 4 8 -0.515805 0 4 -0.515805 1
+gene 1 5 8 2.12703 0 5 2.12703 1
+gene 1 6 8 0.962473 0 6 0.962473 1
+gene 1 7 8 -0.901024 0 7 -0.901024 1
+gene 3 3 11 1 0 12 0 1
+gene 3 11 8 -1.50842 0 13 -1.50842 0
+gene 3 11 15 1 0 20 1 1
+gene 3 15 8 0.0157511 0 21 0.0157511 1
+genomeend 105
+
+/* Organism #106 Fitness: 5 Error: 0 */
+genomestart 106
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.14554 0 1 1.14554 1
+gene 3 2 8 0.324442 0 2 0.324442 1
+gene 2 3 8 -0.0649768 0 3 -0.0649768 0
+gene 1 4 8 -1.68884 0 4 -1.68884 1
+gene 1 5 8 1.72873 0 5 1.72873 1
+gene 1 6 8 -0.981848 0 6 -0.981848 1
+gene 1 7 8 0.59485 0 7 0.59485 1
+gene 3 3 11 -0.210337 0 12 -0.210337 0
+gene 3 11 8 -0.225671 0 13 -0.225671 0
+gene 3 11 15 1.10951 0 20 1.10951 1
+gene 3 15 8 0.768144 0 21 0.768144 1
+genomeend 106
+
+/* Organism #107 Fitness: 5 Error: 0 */
+genomestart 107
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.49763 0 1 2.49763 1
+gene 3 2 8 0.384199 0 2 0.384199 1
+gene 2 3 8 3.47712 0 3 3.47712 0
+gene 1 4 8 -1.07506 0 4 -1.07506 1
+gene 1 5 8 0.903074 0 5 0.903074 1
+gene 1 6 8 -0.8121 0 6 -0.8121 1
+gene 1 7 8 1.31216 0 7 1.31216 1
+gene 3 3 11 2.3347 0 12 2.3347 1
+gene 3 11 8 -1.44282 0 13 -1.44282 0
+gene 3 11 15 0.278846 0 20 0.278846 1
+gene 3 15 8 1.14759 0 21 1.14759 1
+gene 2 7 15 -1.65931 0 26 -1.65931 1
+genomeend 107
+
+/* Organism #108 Fitness: 62 Error: 0 */
+genomestart 108
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 3.54611 0 1 3.54611 1
+gene 3 2 8 1.51205 0 2 1.51205 1
+gene 2 3 8 0.125305 0 3 0.125305 0
+gene 1 4 8 1.95364 0 4 1.95364 1
+gene 1 5 8 3.9488 0 5 3.9488 1
+gene 1 6 8 0.319803 0 6 0.319803 1
+gene 1 7 8 -0.590262 0 7 -0.590262 1
+gene 3 3 11 -0.0505561 0 12 -0.0505561 1
+gene 3 11 8 -1.16809 0 13 -1.16809 0
+gene 3 11 15 0.117253 0 20 0.117253 1
+gene 3 15 8 -0.74586 0 21 -0.74586 1
+genomeend 108
+
+/* Organism #109 Fitness: 7 Error: 0 */
+genomestart 109
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+node 19 1 0 0
+gene 2 1 8 1.21371 0 1 1.21371 1
+gene 3 2 8 -0.774977 0 2 -0.774977 1
+gene 2 3 8 -1.2112 0 3 -1.2112 0
+gene 1 4 8 -2.77759 0 4 -2.77759 1
+gene 1 5 8 1.87541 0 5 1.87541 1
+gene 1 6 8 -0.839346 0 6 -0.839346 1
+gene 1 7 8 0.0199876 0 7 0.0199876 1
+gene 3 3 11 2.13513 0 12 2.13513 0
+gene 3 11 8 -2.36408 0 13 -2.36408 0
+gene 3 11 15 2.24565 0 20 2.24565 1
+gene 3 15 8 -1.91428 0 21 -1.91428 1
+gene 3 3 19 1.34413 0 31 1.34413 1
+gene 3 19 11 1 0 32 1 1
+genomeend 109
+
+/* Organism #110 Fitness: 65 Error: 0 */
+genomestart 110
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.04291 0 1 4.04291 1
+gene 3 2 8 -1.90959 0 2 -1.90959 1
+gene 2 3 8 -2.1138 0 3 -2.1138 0
+gene 1 4 8 -0.852065 0 4 -0.852065 1
+gene 1 5 8 3.12406 0 5 3.12406 1
+gene 1 6 8 1.52729 0 6 1.52729 1
+gene 1 7 8 -1.00507 0 7 -1.00507 1
+gene 3 3 11 3.31011 0 12 3.31011 1
+gene 3 11 8 0.688951 0 13 0.688951 0
+gene 3 11 15 1 0 20 1 1
+gene 3 15 8 0.534664 0 21 0.534664 1
+genomeend 110
+
+/* Organism #111 Fitness: 33 Error: 0 */
+genomestart 111
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.44863 0 1 2.44863 1
+gene 3 2 8 1.83531 0 2 1.83531 1
+gene 2 3 8 1.15817 0 3 1.15817 0
+gene 1 4 8 -0.515805 0 4 -0.515805 1
+gene 1 5 8 1.12386 0 5 1.12386 1
+gene 1 6 8 0.505524 0 6 0.505524 1
+gene 1 7 8 0.596874 0 7 0.596874 1
+gene 3 3 11 1 0 12 0 0
+gene 3 11 8 -0.827754 0 13 0 0
+gene 3 11 15 1 0 20 0 1
+gene 3 15 8 -0.827754 0 21 0 1
+genomeend 111
+
+/* Organism #112 Fitness: 30 Error: 0 */
+genomestart 112
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 -1.23984 0 1 -1.23984 1
+gene 3 2 8 -1.82768 0 2 -1.82768 1
+gene 2 3 8 0.377254 0 3 0.377254 0
+gene 1 4 8 -2.24185 0 4 -2.24185 1
+gene 1 5 8 3.15067 0 5 3.15067 1
+gene 1 6 8 1.40665 0 6 1.40665 1
+gene 1 7 8 2.12327 0 7 2.12327 1
+gene 3 3 11 1.28197 0 12 1.28197 1
+gene 3 11 8 -0.230162 0 13 -0.230162 0
+gene 3 11 15 -0.00872008 0 20 -0.00872008 1
+gene 3 15 8 -0.827754 0 21 -0.827754 1
+genomeend 112
+
+/* Organism #113 Fitness: 6 Error: 0 */
+genomestart 113
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.41501 0 1 1.41501 1
+gene 3 2 8 0.885564 0 2 0.885564 1
+gene 2 3 8 0.961925 0 3 0.961925 0
+gene 1 4 8 -0.93547 0 4 -0.93547 1
+gene 1 5 8 2.13752 0 5 2.13752 1
+gene 1 6 8 -1.60419 0 6 -1.60419 1
+gene 1 7 8 0.155204 0 7 0.155204 1
+gene 3 3 11 -1.8184 0 12 -1.8184 1
+gene 3 11 8 -0.784158 0 13 -0.784158 0
+gene 3 11 15 -0.284719 0 20 -0.284719 1
+gene 1 15 8 -0.827754 0 21 -0.827754 1
+genomeend 113
+
+/* Organism #114 Fitness: 11 Error: 0 */
+genomestart 114
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 3.28365 0 1 3.28365 1
+gene 3 2 8 -0.326734 0 2 -0.326734 1
+gene 2 3 8 2.91362 0 3 2.91362 0
+gene 1 4 8 -0.850838 0 4 -0.850838 1
+gene 3 5 8 -0.592939 0 5 -0.592939 1
+gene 1 6 8 1.46506 0 6 1.46506 1
+gene 1 7 8 -1.75338 0 7 -1.75338 1
+gene 3 3 11 -1.0166 0 12 -1.0166 1
+gene 3 11 8 -0.402054 0 13 -0.402054 0
+gene 3 11 15 2.19067 0 20 2.19067 1
+gene 3 15 8 -0.827754 0 21 -0.827754 1
+genomeend 114
+
+/* Organism #115 Fitness: 25 Error: 0 */
+genomestart 115
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.20842 0 1 2.20842 1
+gene 3 2 8 0.906147 0 2 0.906147 1
+gene 2 3 8 1.1023 0 3 1.1023 1
+gene 1 4 8 1.8115 0 4 1.8115 1
+gene 1 5 8 3.54414 0 5 3.54414 1
+gene 1 6 8 1.68743 0 6 1.68743 1
+gene 1 7 8 3.45451 0 7 3.45451 1
+gene 3 3 11 1.29652 0 12 1.29652 1
+gene 3 11 8 -0.646847 0 13 -0.646847 0
+gene 3 11 15 2.31035 0 20 2.31035 1
+gene 3 15 8 -0.387126 0 21 -0.387126 1
+genomeend 115
+
+/* Organism #116 Fitness: 45 Error: 0 */
+genomestart 116
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.76743 0 1 2.76743 1
+gene 3 2 8 0.487731 0 2 0.487731 1
+gene 2 3 8 1.15817 0 3 1.15817 0
+gene 1 4 8 -0.403232 0 4 -0.403232 1
+gene 1 5 8 2.78948 0 5 2.78948 1
+gene 1 6 8 0.828781 0 6 0.828781 1
+gene 1 7 8 -1.80454 0 7 -1.80454 1
+gene 3 3 11 1 0 12 0 0
+gene 3 11 8 1.40945 0 13 1.40945 0
+gene 3 11 15 1 0 20 0 1
+gene 3 15 8 -0.0872095 0 21 -0.0872095 1
+gene 1 4 15 -0.0732146 0 40 -0.0732146 1
+genomeend 116
+
+/* Organism #117 Fitness: 5 Error: 0 */
+genomestart 117
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0.0988554 0 0.274539 0 0 0.756763 0.00504086 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.73894 0 1 2.73894 1
+gene 3 2 8 1.0542 0 2 1.0542 1
+gene 2 3 8 -0.833292 0 3 -0.833292 0
+gene 1 4 8 2.81561 0 4 2.81561 1
+gene 1 5 8 2.94673 0 5 2.94673 1
+gene 1 6 8 -1.92835 0 6 -1.92835 1
+gene 1 7 8 2.64777 0 7 2.64777 1
+gene 3 3 11 -1.56252 0 12 -1.56252 1
+gene 3 11 8 -1.3125 0 13 -1.3125 0
+gene 3 11 15 -0.274808 0 20 -0.274808 1
+gene 3 15 8 0.0906167 0 21 0.0906167 1
+genomeend 117
+
+/* Organism #118 Fitness: 38 Error: 0 */
+genomestart 118
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 0.476642 0 1 0.476642 1
+gene 3 2 8 0.417507 0 2 0.417507 1
+gene 2 3 8 2.04256 0 3 2.04256 0
+gene 1 4 8 1.81384 0 4 1.81384 1
+gene 1 5 8 3.22366 0 5 3.22366 1
+gene 1 6 8 3.89707 0 6 3.89707 1
+gene 1 7 8 -0.629086 0 7 -0.629086 1
+gene 3 3 11 -1.87732 0 12 -1.87732 1
+gene 3 11 8 1.05731 0 13 1.05731 0
+gene 3 11 15 -1.83141 0 20 -1.83141 1
+gene 3 15 8 -2.09535 0 21 -2.09535 1
+gene 2 7 15 0.797279 0 26 0.797279 1
+genomeend 118
+
+/* Organism #119 Fitness: 52 Error: 0 */
+genomestart 119
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.37606 0 1 2.37606 1
+gene 3 2 8 0.487731 0 2 0.487731 1
+gene 2 3 8 1.45072 0 3 1.45072 0
+gene 1 4 8 0.525177 0 4 0.525177 1
+gene 1 5 8 2.54143 0 5 2.54143 1
+gene 1 6 8 0.619726 0 6 0.619726 1
+gene 1 7 8 1.7169 0 7 1.7169 1
+gene 3 3 11 1 0 12 0 1
+gene 3 11 8 1.14984 0 13 1.14984 0
+gene 3 11 15 1 0 20 0 1
+gene 3 15 8 -1.83247 0 21 -1.83247 1
+genomeend 119
+
+/* Organism #120 Fitness: 51 Error: 0 */
+genomestart 120
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.44863 0 1 2.44863 1
+gene 3 2 8 1.83531 0 2 1.83531 1
+gene 2 3 8 0.193942 0 3 0.193942 0
+gene 1 4 8 0.211539 0 4 0.211539 1
+gene 1 5 8 0.822125 0 5 0.822125 1
+gene 1 6 8 0.505524 0 6 0.505524 1
+gene 1 7 8 0.987603 0 7 0.987603 1
+gene 3 3 11 1 0 12 0 1
+gene 3 11 8 -0.409129 0 13 -0.409129 0
+gene 3 11 15 1 0 20 0 1
+gene 3 15 8 -0.827754 0 21 0 1
+genomeend 120
+
+/* Organism #121 Fitness: 7 Error: 0 */
+genomestart 121
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.11702 0 1 1.11702 1
+gene 3 2 8 3.32928 0 2 3.32928 1
+gene 2 3 8 0.34122 0 3 0.34122 0
+gene 1 4 8 1.799 0 4 1.799 1
+gene 1 5 8 3.40397 0 5 3.40397 1
+gene 1 6 8 -0.408374 0 6 -0.408374 1
+gene 1 7 8 0.573095 0 7 0.573095 1
+gene 1 3 11 2.85131 0 12 2.85131 1
+gene 3 11 8 -1.94565 0 13 -1.94565 1
+gene 3 11 15 1 0 20 1 1
+gene 3 15 8 0.112822 0 21 0.112822 1
+genomeend 121
+
+/* Organism #122 Fitness: 34 Error: 0 */
+genomestart 122
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.37606 0 1 2.37606 1
+gene 3 2 8 0.487731 0 2 0.487731 1
+gene 2 3 8 1.15817 0 3 1.15817 0
+gene 1 4 8 -0.515805 0 4 -0.515805 1
+gene 1 5 8 0.822125 0 5 0.822125 1
+gene 1 6 8 0.83671 0 6 0.83671 1
+gene 1 7 8 0.596874 0 7 0.596874 1
+gene 3 3 11 1 0 12 0 1
+gene 3 11 8 -0.827754 0 13 0 1
+gene 3 11 15 1 0 20 0 1
+gene 3 15 8 -0.827754 0 21 0 1
+gene 2 7 15 -0.81701 0 26 -0.81701 1
+genomeend 122
+
+/* Organism #123 Fitness: 40 Error: 0 */
+genomestart 123
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 0.442986 0 1 0.442986 1
+gene 3 2 8 1.52401 0 2 1.52401 1
+gene 2 3 8 1.13593 0 3 1.13593 1
+gene 1 4 8 -0.515805 0 4 -0.515805 1
+gene 1 5 8 2.73583 0 5 2.73583 1
+gene 1 6 8 0.83671 0 6 0.83671 1
+gene 1 7 8 -1.88625 0 7 -1.88625 1
+gene 3 3 11 -2.39562 0 12 -2.39562 1
+gene 3 11 8 -2.5556 0 13 -2.5556 0
+gene 3 11 15 0.210977 0 20 0.210977 1
+gene 3 15 8 -0.827754 0 21 -0.827754 1
+genomeend 123
+
+/* Organism #124 Fitness: 14 Error: 0 */
+genomestart 124
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.8689 0 1 4.8689 1
+gene 3 2 8 1.20518 0 2 1.20518 1
+gene 2 3 8 2.13604 0 3 2.13604 0
+gene 1 4 8 1.94513 0 4 1.94513 1
+gene 1 5 8 -0.0139408 0 5 -0.0139408 1
+gene 1 6 8 0.962473 0 6 0.962473 1
+gene 1 7 8 -1.84998 0 7 -1.84998 1
+gene 3 3 11 -0.0207079 0 12 -0.0207079 1
+gene 3 11 8 0.120447 0 13 0.120447 0
+gene 3 11 15 2.62473 0 20 2.62473 1
+gene 3 15 8 -0.0748523 0 21 -0.0748523 1
+genomeend 124
+
+/* Organism #125 Fitness: 5 Error: 0 */
+genomestart 125
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 5.24045 0 1 5.24045 1
+gene 3 2 8 0.170952 0 2 0.170952 1
+gene 2 3 8 -0.620663 0 3 -0.620663 0
+gene 1 4 8 0.117928 0 4 0.117928 1
+gene 1 5 8 1.23566 0 5 1.23566 1
+gene 1 6 8 -0.51306 0 6 -0.51306 1
+gene 1 7 8 0.670442 0 7 0.670442 1
+gene 3 3 11 1.2981 0 12 1.2981 1
+gene 3 11 8 0.168494 0 13 0.168494 0
+gene 3 11 15 -0.649164 0 20 -0.649164 1
+gene 3 15 8 -0.127961 0 21 -0.127961 1
+genomeend 125
+
+/* Organism #126 Fitness: 22 Error: 0 */
+genomestart 126
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.31853 0 1 2.31853 1
+gene 3 2 8 -0.0120105 0 2 -0.0120105 1
+gene 2 3 8 3.70105 0 3 3.70105 0
+gene 1 4 8 0.00468568 0 4 0.00468568 1
+gene 1 5 8 1.10866 0 5 1.10866 1
+gene 1 6 8 0.718143 0 6 0.718143 1
+gene 1 7 8 1.88201 0 7 1.88201 1
+gene 3 3 11 0.923001 0 12 0.923001 1
+gene 3 11 8 0.49282 0 13 0.49282 1
+gene 3 11 15 3.24794 0 20 3.24794 1
+gene 3 15 8 -2.48887 0 21 -2.48887 1
+genomeend 126
+
+/* Organism #127 Fitness: 5 Error: 0 */
+genomestart 127
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 -1.98373 0 1 -1.98373 1
+gene 3 2 8 4.89967 0 2 4.89967 1
+gene 2 3 8 -0.695116 0 3 -0.695116 0
+gene 1 4 8 0.0502113 0 4 0.0502113 1
+gene 1 5 8 -1.38294 0 5 -1.38294 1
+gene 1 6 8 -1.00511 0 6 -1.00511 1
+gene 1 7 8 -0.46573 0 7 -0.46573 1
+gene 3 3 11 3.57523 0 12 3.57523 1
+gene 3 11 8 -1.50842 0 13 -1.50842 0
+gene 3 11 15 -1.43177 0 20 -1.43177 1
+gene 3 15 8 1.02179 0 21 1.02179 1
+genomeend 127
+
+/* Organism #128 Fitness: 61 Error: 0 */
+genomestart 128
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 0.29164 0 1 0.29164 1
+gene 3 2 8 0.487731 0 2 0.487731 1
+gene 2 3 8 3.60611 0 3 3.60611 0
+gene 1 4 8 -0.973207 0 4 -0.973207 1
+gene 1 5 8 2.91033 0 5 2.91033 1
+gene 1 6 8 2.47255 0 6 2.47255 1
+gene 1 7 8 -1.36277 0 7 -1.36277 1
+gene 3 3 11 1 0 12 0 1
+gene 3 11 8 -0.827754 0 13 0 0
+gene 3 11 15 0.0111942 0 20 0.0111942 1
+gene 3 15 8 0.469913 0 21 0.469913 1
+genomeend 128
+
+/* Organism #129 Fitness: 5 Error: 0 */
+genomestart 129
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.46777 0 1 1.46777 1
+gene 3 2 8 0.243267 0 2 0.243267 1
+gene 2 3 8 1.49915 0 3 1.49915 0
+gene 1 4 8 -0.423804 0 4 -0.423804 1
+gene 1 5 8 0.720756 0 5 0.720756 1
+gene 1 6 8 -1.4709 0 6 -1.4709 1
+gene 1 7 8 0.858762 0 7 0.858762 1
+gene 3 3 11 3.33067 0 12 3.33067 1
+gene 3 11 8 0.042864 0 13 0.042864 0
+gene 3 11 15 1 0 20 1 1
+gene 3 15 8 -0.827754 0 21 -0.827754 1
+genomeend 129
+
+/* Organism #130 Fitness: 5 Error: 0 */
+genomestart 130
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0.0175276 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+node 20 1 0 0
+gene 2 1 8 0.361717 0 1 0.361717 1
+gene 3 2 8 1.08012 0 2 1.08012 0
+gene 2 3 8 2.10311 0 3 2.10311 0
+gene 1 4 8 -1.79501 0 4 -1.79501 1
+gene 1 5 8 1.08501 0 5 1.08501 1
+gene 1 6 8 0.0275487 0 6 0.0275487 1
+gene 1 7 8 -0.729303 0 7 -0.729303 1
+gene 3 3 11 1.87926 0 12 1.87926 1
+gene 3 11 8 -2.32386 0 13 -2.32386 0
+gene 3 11 15 3.06782 0 20 3.06782 1
+gene 3 15 8 -2.87577 0 21 -2.87577 1
+gene 3 2 20 1 0 33 1 1
+gene 3 20 8 0.487731 0 34 0.487731 1
+genomeend 130
+
+/* Organism #131 Fitness: 29 Error: 0 */
+genomestart 131
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.64576 0 1 4.64576 1
+gene 3 2 8 2.582 0 2 2.582 1
+gene 2 3 8 -1.71333 0 3 -1.71333 0
+gene 1 4 8 -0.642436 0 4 -0.642436 1
+gene 1 5 8 4.14144 0 5 4.14144 1
+gene 1 6 8 2.70384 0 6 2.70384 1
+gene 1 7 8 1.67705 0 7 1.67705 1
+gene 3 3 11 -1.25759 0 12 -1.25759 0
+gene 3 11 8 1.82803 0 13 1.82803 1
+gene 3 11 15 -0.494808 0 20 -0.494808 1
+gene 3 15 8 -1.82014 0 21 -1.82014 1
+genomeend 131
+
+/* Organism #132 Fitness: 18 Error: 0 */
+genomestart 132
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 1 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.51835 0 1 1.51835 1
+gene 3 2 8 3.40629 0 2 3.40629 1
+gene 2 3 8 -1.70845 0 3 -1.70845 0
+gene 1 4 8 1.31148 0 4 1.31148 1
+gene 1 5 8 -0.499247 0 5 -0.499247 1
+gene 1 6 8 2.76202 0 6 2.76202 1
+gene 1 7 8 2.74497 0 7 2.74497 1
+gene 3 3 11 2.5027 0 12 2.5027 1
+gene 3 11 8 0.326671 0 13 0.326671 0
+gene 3 11 15 -2.43073 0 20 -2.43073 1
+gene 3 15 8 -2.37234 0 21 -2.37234 1
+genomeend 132
+
+/* Organism #133 Fitness: 27 Error: 0 */
+genomestart 133
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.13452 0 1 1.13452 1
+gene 3 2 8 0.129264 0 2 0.129264 1
+gene 2 3 8 -2.86223 0 3 -2.86223 0
+gene 1 4 8 -1.01891 0 4 -1.01891 1
+gene 1 5 8 3.86441 0 5 3.86441 1
+gene 1 6 8 1.64201 0 6 1.64201 1
+gene 1 7 8 -2.4005 0 7 -2.4005 1
+gene 3 3 11 0.0343127 0 12 0.0343127 1
+gene 3 11 8 2.86058 0 13 2.86058 0
+gene 3 11 15 1.29498 0 20 1.29498 1
+gene 3 15 8 -2.49331 0 21 -2.49331 1
+genomeend 133
+
+/* Organism #134 Fitness: 46 Error: 0 */
+genomestart 134
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.40183 0 1 1.40183 1
+gene 3 2 8 1.17696 0 2 1.17696 1
+gene 2 3 8 -0.377775 0 3 -0.377775 0
+gene 1 4 8 1.78756 0 4 1.78756 1
+gene 1 5 8 4.44841 0 5 4.44841 1
+gene 1 6 8 3.14785 0 6 3.14785 1
+gene 1 7 8 -0.808925 0 7 -0.808925 1
+gene 3 3 11 0.676486 0 12 0.676486 1
+gene 3 11 8 0.340651 0 13 0.340651 0
+gene 3 11 15 -2.31239 0 20 -2.31239 1
+gene 3 15 8 -0.827754 0 21 -0.827754 1
+genomeend 134
+
+/* Organism #135 Fitness: 45 Error: 0 */
+genomestart 135
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0.610076 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.71653 0 1 4.71653 1
+gene 3 2 8 -0.993356 0 2 -0.993356 1
+gene 2 3 8 2.59249 0 3 2.59249 0
+gene 1 4 8 2.0302 0 4 2.0302 1
+gene 1 5 8 4.93701 0 5 4.93701 1
+gene 1 6 8 1.41889 0 6 1.41889 1
+gene 1 7 8 -0.513625 0 7 -0.513625 1
+gene 3 3 11 0.73945 0 12 0.73945 1
+gene 3 11 8 1.86532 0 13 1.86532 0
+gene 3 11 15 0.812727 0 20 0.812727 1
+gene 3 15 8 0.266963 0 21 0.266963 1
+genomeend 135
+
+/* Organism #136 Fitness: 77 Error: 0 */
+genomestart 136
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 3.81568 0 1 3.81568 1
+gene 3 2 8 -1.37586 0 2 -1.37586 1
+gene 2 3 8 3.0814 0 3 3.0814 0
+gene 1 4 8 -2.58742 0 4 -2.58742 1
+gene 1 5 8 2.81013 0 5 2.81013 1
+gene 1 6 8 0.403469 0 6 0.403469 1
+gene 1 7 8 0.110476 0 7 0.110476 1
+gene 3 3 11 -0.607565 0 12 -0.607565 1
+gene 3 11 8 -1.90625 0 13 -1.90625 0
+gene 3 11 15 -0.284719 0 20 -0.284719 1
+gene 3 15 8 -1.30666 0 21 -1.30666 1
+genomeend 136
+
+/* Organism #137 Fitness: 5 Error: 0 */
+genomestart 137
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 3.65607 0 1 3.65607 1
+gene 3 2 8 -0.693588 0 2 -0.693588 1
+gene 2 3 8 -1.15085 0 3 -1.15085 0
+gene 1 4 8 -1.37743 0 4 -1.37743 1
+gene 1 5 8 2.72059 0 5 2.72059 1
+gene 1 6 8 -0.0360567 0 6 -0.0360567 1
+gene 1 7 8 2.64339 0 7 2.64339 1
+gene 3 3 11 -1.60711 0 12 -1.60711 1
+gene 3 11 8 1.61582 0 13 1.61582 0
+gene 3 11 15 -0.801466 0 20 -0.801466 1
+gene 3 15 8 0.383643 0 21 0.383643 1
+genomeend 137
+
+/* Organism #138 Fitness: 5 Error: 0 */
+genomestart 138
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 1.374 0 1 1.374 1
+gene 3 2 8 1.85146 0 2 1.85146 1
+gene 2 3 8 1.88063 0 3 1.88063 0
+gene 1 4 8 -0.807938 0 4 -0.807938 1
+gene 1 5 8 2.3956 0 5 2.3956 1
+gene 1 6 8 -1.68247 0 6 -1.68247 1
+gene 1 7 8 -1.21024 0 7 -1.21024 1
+gene 3 3 11 0.900535 0 12 0.900535 1
+gene 3 11 8 -0.618442 0 13 -0.618442 1
+gene 3 11 15 2.79546 0 20 2.79546 1
+gene 3 15 8 1.41625 0 21 1.41625 1
+genomeend 138
+
+/* Organism #139 Fitness: 28 Error: 0 */
+genomestart 139
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 -2.09455 0 1 -2.09455 1
+gene 3 2 8 -1.47486 0 2 -1.47486 1
+gene 2 3 8 -0.361103 0 3 -0.361103 0
+gene 1 4 8 -0.728424 0 4 -0.728424 1
+gene 1 5 8 2.53842 0 5 2.53842 1
+gene 1 6 8 0.505829 0 6 0.505829 1
+gene 1 7 8 0.824837 0 7 0.824837 1
+gene 3 3 11 -3.06479 0 12 -3.06479 1
+gene 3 11 8 1.86589 0 13 1.86589 0
+gene 3 11 15 0.378702 0 20 0.378702 1
+gene 3 15 8 0.580423 0 21 0.580423 1
+genomeend 139
+
+/* Organism #140 Fitness: 47 Error: 0 */
+genomestart 140
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 2 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.33593 0 1 4.33593 1
+gene 3 2 8 -0.194968 0 2 -0.194968 1
+gene 2 3 8 1.45072 0 3 1.45072 0
+gene 1 4 8 0.525177 0 4 0.525177 1
+gene 1 5 8 2.54143 0 5 2.54143 1
+gene 1 6 8 0.619726 0 6 0.619726 1
+gene 1 7 8 1.7169 0 7 1.7169 1
+gene 3 3 11 1.67779 0 12 1.67779 1
+gene 3 11 8 1.14984 0 13 1.14984 0
+gene 3 11 15 1.24268 0 20 1.24268 1
+gene 3 15 8 -1.83247 0 21 -1.83247 1
+genomeend 140
+
+/* Organism #141 Fitness: 5 Error: 0 */
+genomestart 141
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.45938 0 1 4.45938 1
+gene 3 2 8 0.743668 0 2 0.743668 1
+gene 2 3 8 -2.26322 0 3 -2.26322 0
+gene 1 4 8 -0.165442 0 4 -0.165442 1
+gene 1 5 8 1.28988 0 5 1.28988 1
+gene 1 6 8 -1.16006 0 6 -1.16006 1
+gene 1 7 8 1.15212 0 7 1.15212 1
+gene 3 3 11 -0.730014 0 12 -0.730014 1
+gene 3 11 8 -2.14966 0 13 -2.14966 1
+gene 3 11 15 -0.669785 0 20 -0.669785 1
+gene 3 15 8 -0.224881 0 21 -0.224881 1
+genomeend 141
+
+/* Organism #142 Fitness: 5 Error: 0 */
+genomestart 142
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 3 0 0
+gene 2 1 8 0.632369 0 1 0.632369 1
+gene 3 2 8 -2.13709 0 2 -2.13709 1
+gene 2 3 8 1.51724 0 3 1.51724 0
+gene 1 4 8 -1.49596 0 4 -1.49596 1
+gene 1 5 8 -1.66609 0 5 -1.66609 1
+gene 1 6 8 -0.948452 0 6 -0.948452 1
+gene 1 7 8 -0.354206 0 7 -0.354206 1
+gene 3 3 11 -1.64592 0 12 -1.64592 1
+gene 3 11 8 -0.171692 0 13 -0.171692 0
+gene 3 11 15 -2.14168 0 20 -2.14168 1
+gene 3 15 8 -1.71484 0 21 -1.71484 1
+genomeend 142
+
+/* Organism #143 Fitness: 9 Error: 0 */
+genomestart 143
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 4.0553 0 1 4.0553 1
+gene 3 2 8 5.03818 0 2 5.03818 1
+gene 2 3 8 -0.73094 0 3 -0.73094 0
+gene 1 4 8 -0.240011 0 4 -0.240011 1
+gene 1 5 8 0.349508 0 5 0.349508 1
+gene 1 6 8 2.92073 0 6 2.92073 1
+gene 1 7 8 -3.75246 0 7 -3.75246 1
+gene 3 3 11 2.01481 0 12 2.01481 1
+gene 3 11 8 -1.06182 0 13 -1.06182 1
+gene 3 11 15 2.45283 0 20 2.45283 1
+gene 3 15 8 -2.42429 0 21 -2.42429 1
+genomeend 143
+
+/* Organism #144 Fitness: 6 Error: 0 */
+genomestart 144
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+node 19 1 0 0
+gene 2 1 8 2.6326 0 1 2.6326 1
+gene 3 2 8 -0.241698 0 2 -0.241698 1
+gene 2 3 8 2.16973 0 3 2.16973 1
+gene 1 4 8 -1.16879 0 4 -1.16879 1
+gene 1 5 8 1.70479 0 5 1.70479 1
+gene 1 6 8 0.183276 0 6 0.183276 1
+gene 1 7 8 1.82636 0 7 1.82636 1
+gene 3 3 11 0.871357 0 12 0.871357 1
+gene 3 11 8 0.364206 0 13 0.364206 0
+gene 3 11 15 -0.663413 0 20 -0.663413 1
+gene 3 15 8 -0.673598 0 21 -0.673598 1
+gene 3 3 19 -0.475569 0 31 -0.475569 1
+gene 3 19 11 3.10401 0 32 3.10401 1
+genomeend 144
+
+/* Organism #145 Fitness: 5 Error: 0 */
+genomestart 145
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+node 20 1 0 0
+gene 2 1 8 -0.21259 0 1 -0.21259 1
+gene 3 2 8 1.91755 0 2 1.91755 0
+gene 2 3 8 1.15808 0 3 1.15808 0
+gene 1 4 8 -1.41281 0 4 -1.41281 1
+gene 1 5 8 2.23407 0 5 2.23407 1
+gene 1 6 8 -1.49515 0 6 -1.49515 1
+gene 1 7 8 -1.45325 0 7 -1.45325 1
+gene 3 3 11 1.01621 0 12 1.01621 1
+gene 3 11 8 1.66029 0 13 1.66029 0
+gene 3 11 15 -1.70484 0 20 -1.70484 1
+gene 3 15 8 -0.745511 0 21 -0.745511 1
+gene 3 2 20 -1.26982 0 33 -1.26982 1
+gene 3 20 8 -1.4928 0 34 -1.4928 1
+genomeend 145
+
+/* Organism #146 Fitness: 25 Error: 0 */
+genomestart 146
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 5.831 0 1 5.831 1
+gene 3 2 8 0.900959 0 2 0.900959 1
+gene 2 3 8 -2.14273 0 3 -2.14273 0
+gene 1 4 8 -0.496981 0 4 -0.496981 1
+gene 1 5 8 1.11479 0 5 1.11479 1
+gene 1 6 8 2.93896 0 6 2.93896 1
+gene 1 7 8 1.81812 0 7 1.81812 1
+gene 3 3 11 1.29343 0 12 1.29343 1
+gene 3 11 8 2.29553 0 13 2.29553 0
+gene 3 11 15 1.56828 0 20 1.56828 1
+gene 3 15 8 0.984054 0 21 0.984054 1
+genomeend 146
+
+/* Organism #147 Fitness: 6 Error: 0 */
+genomestart 147
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.74116 0 1 2.74116 1
+gene 3 2 8 0.473962 0 2 0.473962 1
+gene 2 3 8 1.15817 0 3 1.15817 0
+gene 1 4 8 -1.80686 0 4 -1.80686 1
+gene 1 5 8 -0.0282563 0 5 -0.0282563 1
+gene 1 6 8 0.411604 0 6 0.411604 1
+gene 1 7 8 -1.4089 0 7 -1.4089 1
+gene 3 3 11 1.81669 0 12 1.81669 1
+gene 3 11 8 0.388471 0 13 0.388471 0
+gene 3 11 15 -1.12413 0 20 -1.12413 1
+gene 3 15 8 0.506057 0 21 0.506057 1
+genomeend 147
+
+/* Organism #148 Fitness: 48 Error: 0 */
+genomestart 148
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 3 0 2
+node 11 1 0 0
+node 15 1 0 0
+gene 2 1 8 2.53835 0 1 2.53835 1
+gene 3 2 8 0.560831 0 2 0.560831 1
+gene 2 3 8 1.09271 0 3 1.09271 0
+gene 1 4 8 -2.97236 0 4 -2.97236 1
+gene 1 5 8 2.5311 0 5 2.5311 1
+gene 1 6 8 3.30757 0 6 3.30757 1
+gene 1 7 8 0.160176 0 7 0.160176 1
+gene 3 3 11 3.4238 0 12 3.4238 1
+gene 3 11 8 -2.64471 0 13 -2.64471 0
+gene 3 11 15 2.4307 0 20 2.4307 1
+gene 3 15 8 -0.827754 0 21 -0.827754 1
+gene 2 7 15 -0.263983 0 26 -0.263983 1
+genomeend 148
+
+/* Species #3 : (Size 1) (AF 68) (Age 1)  */
+
+
+/* Organism #149 Fitness: 68 Error: 0 */
+genomestart 149
+trait 1 0.1 0 0 0 0 0 0 0 
+trait 2 0.2 0 0 0 0 0 0 0 
+trait 3 0.3 0 0 0 0 0 0 0 
+node 1 2 1 1
+node 2 3 1 1
+node 3 3 1 1
+node 4 3 1 1
+node 5 1 1 1
+node 6 1 1 1
+node 7 3 1 3
+node 8 2 0 2
+node 11 1 0 0
+gene 2 1 8 0.453811 0 1 0.453811 1
+gene 3 2 8 2.66338 0 2 2.66338 1
+gene 3 3 8 0.0521144 0 3 0.0521144 0
+gene 2 4 8 -0.976999 0 4 -0.976999 1
+gene 1 5 8 2.8737 0 5 2.8737 1
+gene 1 6 8 1.68566 0 6 1.68566 1
+gene 1 7 8 -0.5786 0 7 -0.5786 1
+gene 3 3 11 1.81788 0 12 1.81788 1
+gene 3 11 8 -0.170107 0 13 -0.170107 1
+gene 3 4 11 0.107838 0 37 0.107838 1
+genomeend 149

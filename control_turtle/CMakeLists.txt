@@ -103,7 +103,7 @@ include_directories(
 # )
 
 ## Declare a cpp executable
- add_executable(control_turtle_node src/main.cpp src/Episode.cpp src/GeneticAlgorithm.cpp src/OrganismController.cpp)
+ add_executable(control_turtle_node src/main.cpp src/Episode.cpp src/GeneticAlgorithm.cpp src/OrganismController.cpp )
 
 ## Add cmake target dependencies of the executable/library
 ## as an example, message headers may need to be generated before nodes
